@@ -1,0 +1,18 @@
+.gallerylist-flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+   
+  }
+  .gallerylist-flex-container > div
+  {
+    padding: 10px;
+  }
+
+  @media (max-width: 800px) {
+    .gallerylist-flex-container {
+      flex-direction: column;
+    }
+  
+  }
+  

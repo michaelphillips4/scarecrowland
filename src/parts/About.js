@@ -10,7 +10,7 @@ function About() {
       indoors) which you can order of this site. Joyce also makes Lookalike
       Scarecrows both of famous Celebrities or of you or the person of your
       choice. All Joyce will need is a good quality photo. Contact her for more
-      details. &nbsp;<a href="http://regentspad.wordpress.com/">Click here</a>
+      details. &nbsp;<a href="http://regentspad.wordpress.com/" target="_blank" rel="noreferrer">Click here</a>
       &nbsp;to visit Regent's Pad a scarecrow blog Introducing Regent, and what
       his life is about.
     </p>
