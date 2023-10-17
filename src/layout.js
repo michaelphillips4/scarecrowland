@@ -8,11 +8,11 @@ const Layout = () => {
             <Header />
             <Outlet />
             <br />
-            <span>&copy; scarecrowland 2023</span>
+            <div className='text-center'>
+            &copy; scarecrowland 2023
+            </div>
             <br /> <br /> <br />
-            <main>
-
-            </main>
+        
         </>
     )
 };
