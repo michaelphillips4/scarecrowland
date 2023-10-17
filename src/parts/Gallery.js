@@ -12,19 +12,16 @@ const root = "http://www.scarecrowland.co.uk/";
 export default function Gallery() {
 const location = useLocation();
 const state = location.state;
-
-// pass in as pram
 const info = data.Galleries[Number(state)];
 
-console.log(state,info);
+//console.log(state,info);
     return <><div className="card shadow rounded text-center">
-
         <h2>{info.title}</h2>
         <p>{info.text}</p>
         <GalleryNavLinks id={state} />
         <div className="gallery-flex-container ">
             {info.images.map((e, i) =>
-                <div>
+                <div key={i}>
                     <figure className="gallery-figure" key={i}>
                         <img className="gallery-img round shadow"
                             src={`${root}${info.src}${e.thumb}`}
@@ -35,6 +32,4 @@ console.log(state,info);
         </div>
         <GalleryNavLinks id={state} />
     </div></>
-
-
 }

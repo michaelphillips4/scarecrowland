@@ -11,13 +11,13 @@ function GalleryList() {
         Click on a link to view the gallery
 
         {data.Galleries.map((j, index) =>
-          <Link to="Gallery" state={index}> {j.title}</Link>)
+          <Link to="Gallery" state={index} data={j}  > {j.title}</Link>)
         }
-        <br />
+      {/*   <br />  */}
         <a href="http://regentsparkallotmentgarden.blogspot.co.uk/2011/10/harvest-festival-2011-part-2-scarecrows.html">
           Harvest festival 2011
         </a>
-        <hr />
+        {/* <hr /> */}
 
        
        

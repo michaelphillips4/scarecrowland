@@ -8,7 +8,7 @@ const GalleryNavLinks = (props) => {
     const next = id + 1;
 
     const galleryCount = data.Galleries.length ;
-    console.log(previous, galleryCount, data);
+    //console.log(previous, galleryCount, data);
     return <>
         <span className="text-center">
             {(previous > -1) > 0 &&

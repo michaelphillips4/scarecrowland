@@ -389,24 +389,15 @@
     {
       "title": "Various scarecrows in summer 2007",
       "src": "Pictures/gal30/",
-      "images": [
-        { "thumb": "tbeppe1.jpg", "text": "" },
-        {
-          "thumb": "tbeppe2.jpg",
-          "text": "Beppe having had one too many in the vineyard."
-        },
-        {
-          "thumb": "tMrs-HubbleBubble.jpg",
-          "text": "Mrs-HubbleBubble and her partner or is it Uncle Sam celebrating July the 4th"
-        },
-        { "thumb": "twashington1.jpg", "text": "" },
-        { "thumb": "twashington2.jpg", "text": "" },
-        {
-          "thumb": "twashington3.jpg",
-          "text": "Just to prove young and old like making scarecrows."
-        },
-        { "thumb": "twashington4.jpg", "text": "" },
-        { "thumb": "twashington5.jpg", "text": "Way out West Scarecrows" }
+      "images": [ 
+        {"thumb": "twashington5.jpg","text": "Way out West Scarecrows" },
+        {"thumb": "tbeppe2.jpg","text": "Beppe having had one too many in the vineyard."},
+        {"thumb": "tMrs-HubbleBubble.jpg","text": "Mrs-HubbleBubble and her partner or is it Uncle Sam celebrating July the 4th"},
+        {"thumb": "twashington1.jpg","text": "" },
+        {"thumb": "twashington2.jpg","text": "" },
+        {"thumb": "twashington3.jpg","text": "Just to prove young and old like making scarecrows."},
+        {"thumb": "twashington4.jpg","text": "" },
+        {"thumb": "tbeppe1.jpg","text": "" }
       ]
     }
   ]
