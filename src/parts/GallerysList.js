@@ -13,6 +13,7 @@ function GalleryList() {
         {data.Galleries.map((j, index) =>
           <Link to="Gallery" state={index}> {j.title}</Link>)
         }
+        <br />
         <a href="http://regentsparkallotmentgarden.blogspot.co.uk/2011/10/harvest-festival-2011-part-2-scarecrows.html">
           Harvest festival 2011
         </a>
@@ -21,12 +22,12 @@ function GalleryList() {
        
        
        
-        <a href="gal36.html">  Celebrity Scarecrows 2008</a>
-        <a href="gal35.html">  Scarecrows in the USA 2008</a>
-        <a href="gal34.html">  Fred in the USA 2008</a>
-        <a href="gal33.html">  Workshops around Sussex 2007</a>
-        <a href="gal32.html">  Scarecrows in actions 2007</a>
-        <a href="gal31.html">  Goldy's 2007</a>
+        
+       
+        
+      
+       
+       
         <a href="gal30.html">  various scarecrows in summer 2007</a>
         <a href="gal29.html">  Creating atma 2007</a>
         <a href="gal28.html">  summer solstice ventura California 2007</a>
