@@ -3,7 +3,8 @@ function History() {
     <div className="card shadow p-2 ">
       <h5 className="text-center">Scarecrow History</h5>
       <p className="text-justify">
-
+      <img src="http://www.scarecrowland.co.uk/style/american.gif" className="p-2 rounded float-end" style={{ width: "10rem" }} alt="joyce with a scarecrow in a tree" />
+      
         <img src="http://www.scarecrowland.co.uk/style/tree.jpg" className="p-2 rounded float-start " style={{ width: "10rem" }} alt="joyce with a scarecrow in a tree" />
         The Scarecrow is one of the most familiar figures of the rural landscape not only in the United Kingdom but
         throughout Europe and many other countries of the world.  His ragged figure has been recorded in rural
@@ -20,9 +21,11 @@ function History() {
         Earliest known written fact about scarecrow's written in 1592.Definition of a scarecrow - That which frightens or is intended to
         frighten without doing physical harm.Literally that which - scares away crows, hence the name scarecrow.
 
-        <div className="mx-auto pr-2 pt-2 text-center" >
-          <iframe src="http://www.youtube.com/embed/uMa9LVlX3yk" title="scarecrows"></iframe>
-        </div>
+       
+          <iframe
+          className="mx-auto d-block m-2"
+          src="http://www.youtube.com/embed/uMa9LVlX3yk" title="scarecrows"></iframe>
+        
 
         Decline is due to the change of farming technology started with the industrial revolution.
         The hectic life of the farmer means that he doesn't have time to even feel the earth or walk it.
@@ -55,6 +58,8 @@ function History() {
 
         The Scarecrow also has different names all over the United Kingdom.
         Jack A Lent -  from the "Merry Wives Of Windsor"  1597.
+        <img src="http://www.scarecrowland.co.uk/style/fred.gif" className="p-2 rounded float-end" style={{ width: "10rem" }} alt="joyce with a scarecrow in a tree" />
+     
         <br />	Mommet -   Somerset.
         <br />	Murmet - Devon.
         <br />	Mammet - Yorkshire, Lancashire.

@@ -105,12 +105,7 @@ function GalleryList() {
         <br />
         <a href="hatgal1.html">  Hats New Range in Spring 2011</a>
 
-        <p>
-          Please keep checking for new galleries
-        </p>
-
-
-      </div>
+             </div>
 
     </>)
 };

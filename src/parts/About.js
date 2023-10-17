@@ -3,7 +3,10 @@ function About() {
   return (
     <div className="card shadow p-4 pb-0">
       <p className="lead">
-        <img src="http://www.scarecrowland.co.uk/style/tinman.gif" className=" rounded float-end" style={{ height: "7rem" }} alt="Tinman from the Wizard of Oz" />
+        <img src="http://www.scarecrowland.co.uk/style/cutout3.gif" className="d-none d-md-block rounded float-start" style={{ width: "10rem" }} alt="joyce with a scarecrow in a tree" />
+    
+        <img src="http://www.scarecrowland.co.uk/style/tinman.gif" 
+        className="rounded float-end " style={{ width: "8rem" }} alt="Tinman from the Wizard of Oz" />
         <b>Joyce Warren</b> is a professional Scarecrow Artists. She gives classes on making Scarecrows both at Workshops and at Events.
         She has a DVD "Making Barnie" which walks you through making a traditional Scarecrow.
         She also makes FlowerPot Scarecrows(Smaller decorative scarecrows for indoors) which you can order of this site.

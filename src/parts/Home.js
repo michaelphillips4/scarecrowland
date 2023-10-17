@@ -9,7 +9,7 @@ const Home = () => {
             <About />
             <Sales />
             <div className="row mt-1 g-2">
-                <div className="col-lg-3">
+                <div className="col-lg-3 ">
                     <GalleryList />
                 </div>
                 <div className="col">
