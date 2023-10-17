@@ -1,4 +1,5 @@
 import './GallerysList.css';
+import data from "../galleries-data.json";
 import { Link } from "react-router-dom";
 
 function GalleryList() {
@@ -8,21 +9,18 @@ function GalleryList() {
       <div className="card shadow p-2 ">
         <h5 className="text-center">Scarecrow Gallery's</h5>
         Click on a link to view the gallery
-        <Link to="Gallery">Green Man Regents Park London</Link>
-       {/*  <a href="gal48.html">Green Man Regents Park London</a> */}
-        <a href="gal46.html">  March 2013</a>
-        <a href="gal45.html">  Harvest festival 2012 Green Man</a>
-        <a href="gal43.html">  Olympic Team UK 2012</a>
-        <a href="gal44.html">  Various Scarecrows 2011-2012</a>
+
+        {data.Galleries.map((j, index) =>
+          <Link to="Gallery" state={index}> {j.title}</Link>)
+        }
         <a href="http://regentsparkallotmentgarden.blogspot.co.uk/2011/10/harvest-festival-2011-part-2-scarecrows.html">
           Harvest festival 2011
         </a>
-        <a href="http://www.scarecrowland.co.uk/Pictures/gal42/index.html">  New Work 2011</a>
-        <a href="gal41.html">  Autumn Brighton 2010</a>
-        <a href="gal40.html">  Summer 2010</a>
-        <a href="gal39.html">  FlowerPot Scarecrows</a>
-        <a href="gal38.html">  Harry found a new home in Kent</a>
-        <a href="gal37.html">  Various Scarecrows 2009</a>
+        <hr />
+
+       
+       
+       
         <a href="gal36.html">  Celebrity Scarecrows 2008</a>
         <a href="gal35.html">  Scarecrows in the USA 2008</a>
         <a href="gal34.html">  Fred in the USA 2008</a>
@@ -105,7 +103,7 @@ function GalleryList() {
         <br />
         <a href="hatgal1.html">  Hats New Range in Spring 2011</a>
 
-             </div>
+      </div>
 
     </>)
 };

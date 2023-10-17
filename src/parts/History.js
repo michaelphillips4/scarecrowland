@@ -3,14 +3,14 @@ function History() {
     <div className="card shadow p-2 ">
       <h5 className="text-center">Scarecrow History</h5>
       <p className="text-justify">
-      <img src="http://www.scarecrowland.co.uk/style/american.gif" className="p-2 rounded float-end" style={{ width: "10rem" }} alt="joyce with a scarecrow in a tree" />
+      <img src="http://www.scarecrowland.co.uk/style/american.gif" className="p-2 rounded float-end" style={{ width: "10rem" }} alt="American Scarecrow" />
       
         <img src="http://www.scarecrowland.co.uk/style/tree.jpg" className="p-2 rounded float-start " style={{ width: "10rem" }} alt="joyce with a scarecrow in a tree" />
         The Scarecrow is one of the most familiar figures of the rural landscape not only in the United Kingdom but
         throughout Europe and many other countries of the world.  His ragged figure has been recorded in rural
         history for centuries.  His image has proved irresistible to writers from <i>William Shakespeare</i>
         to <i>Walter de la Mare</i> as well as to film makers since the dawn of the silent movie.
-        Yet, despite all his fame, the origins and the  development of the scarecrow have remained obscurred
+        Yet, despite all his fame, the origins and the  development of the scarecrow have remained obscured
         in mystery.
 
         The above is from the cover of <i>Scarecrow Fact and Fable</i>, Author <i>

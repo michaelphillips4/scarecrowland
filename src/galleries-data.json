@@ -1,43 +1,220 @@
 {
-   "Galleries":[{"title":"Green Man Regents Park London",
-             "src":"Pictures/gal47/",   
-             "images":[
-                {"thumb":"(small)DSC01148.JPG","main":"DSC01148.JPG","text":"Easter is Here "},
-                {"thumb":"(small)DSCF2356.JPG","main":"DSCF2356.JPG","text":"Survived winter snow wind rain even though now a little Brown"},
-                {"thumb":"(small)DSCF2358.JPG","main":"DSCF2358.JPG","text":"Enjoying a Sunny Day as autumn approaches"},
-                {"thumb":"(small)DSCF2355.JPG","main":"DSCF2355.JPG","text":"Getting ready for winter"},
-                {"thumb":"(small)DSCF2346.JPG","main":"DSCF2346.JPG","text":""},
-                {"thumb":"(small)DSCF2347.JPG","main":"DSCF2347.JPG","text":""},
-                {"thumb":"(small)DSCF2350.JPG","main":"DSCF2350.JPG","text":""},
-                {"thumb":"(small)DSCF2344.JPG","main":"DSCF2344.JPG","text":""},
-                {"thumb":"(small)DSC01133.JPG","main":"DSC01133.JPG","text":""},
-                {"thumb":"(small)DSC01139.JPG","main":"DSC01139.JPG","text":""},
-                {"thumb":"(small)DSCF2364.JPG","main":"DSCF2364.JPG","text":""},
-                {"thumb":"(small)DSCF2368.JPG","main":"DSCF2368.JPG","text":""}
-             ]}
-            
-            ]
+  "Galleries": [
+    {
+      "title": "Green Man Regents Park London",
+      "src": "Pictures/gal47/",
+      "images": [
+        {
+          "thumb": "(small)DSC01148.JPG",
+          "main": "DSC01148.JPG",
+          "text": "Easter is Here "
+        },
+        {
+          "thumb": "(small)DSCF2356.JPG",
+          "main": "DSCF2356.JPG",
+          "text": "Survived winter snow wind rain even though now a little Brown"
+        },
+        {
+          "thumb": "(small)DSCF2358.JPG",
+          "main": "DSCF2358.JPG",
+          "text": "Enjoying a Sunny Day as autumn approaches"
+        },
+        {
+          "thumb": "(small)DSCF2355.JPG",
+          "main": "DSCF2355.JPG",
+          "text": "Getting ready for winter"
+        },
+        { "thumb": "(small)DSCF2346.JPG", "main": "DSCF2346.JPG", "text": "" },
+        { "thumb": "(small)DSCF2347.JPG", "main": "DSCF2347.JPG", "text": "" },
+        { "thumb": "(small)DSCF2350.JPG", "main": "DSCF2350.JPG", "text": "" },
+        { "thumb": "(small)DSCF2344.JPG", "main": "DSCF2344.JPG", "text": "" },
+        { "thumb": "(small)DSC01133.JPG", "main": "DSC01133.JPG", "text": "" },
+        { "thumb": "(small)DSC01139.JPG", "main": "DSC01139.JPG", "text": "" },
+        { "thumb": "(small)DSCF2364.JPG", "main": "DSCF2364.JPG", "text": "" },
+        { "thumb": "(small)DSCF2368.JPG", "main": "DSCF2368.JPG", "text": "" }
+      ]
+    },
+    {
+      "title": "March 2013",
+      "src": "Pictures/gal46/",
+      "images": [
+        {
+          "thumb": "1.jpg",
+          "main": "1.jpg",
+          "text": "Heres looking at you kid."
+        }
+      ]
+    },
+    {
+      "title": "Harvest festival 2012 Green Man",
+      "text": "The Green Man - For Capital Growth in partnership with Regents Park allotments (Harvest fertival 2012)",
+      "src": "Pictures/gal45/",
+      "images": [
+        {
+          "thumb": "(small)1.jpg",
+          "main": "1.jpg",
+          "text": "Making the Green Man."
+        },
+        { "thumb": "(small)2.jpg", "main": "2.jpg", "text": "" },
+        { "thumb": "(small)3.jpg", "main": "3.jpg", "text": "" },
+        { "thumb": "(small)4.jpg", "main": "4.jpg", "text": "" },
+        { "thumb": "(small)5.jpg", "main": "5.jpg", "text": "" },
+        { "thumb": "(small)6.jpg", "main": "6.jpg", "text": "" }
+      ]
+    },
+    {
+      "title": "Olympic Team UK 2012",
+      "src": "Pictures/gal43/",
+      "images": [
+        {
+          "thumb": "1.jpg",
+          "main": "1.jpg"
+        },
+        {
+          "thumb": "2.jpg",
+          "main": "2.jpg"
+        },
+        {
+          "thumb": "3.jpg",
+          "main": "3.jpg"
+        },
+        {
+          "thumb": "4.jpg",
+          "main": "4.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Various Scarecrows 2011/2012",
+      "src": "Pictures/gal44/",
+      "images": [
+        {
+          "thumb": "(small)4.jpg",
+          "main": "4.jpg"
+        },
+        {
+          "thumb": "(small)5.jpg",
+          "main": "5.jpg"
+        },
+        {
+          "thumb": "(small)1.jpg",
+          "main": "1.jpg"
+        },
+        {
+          "thumb": "(small)2.jpg",
+          "main": "2.jpg"
+        },
+        {
+          "thumb": "(small)3.jpg",
+          "main": "3.jpg"
+        }
+      ]
+    },
 
+    {
+      "title": "New Work 2011",
+      "src": "Pictures/gal42/images/",
+      "images": [
+        { "thumb": "sc (107).JPG" },
+        { "thumb": "sc (126).JPG" },
+        { "thumb": "sc (118).JPG" },
+        { "thumb": "sc (110).JPG" },
+        { "thumb": "sc (111).JPG" },
+        { "thumb": "sc (113).JPG" },
+        { "thumb": "sc (114).JPG" },
+        { "thumb": "sc (120).JPG" },
+        { "thumb": "sc (123).JPG" },
+        { "thumb": "sc (119).JPG" }
+      ]
+    },
+    {
+      "title": "Autumn Brighton 2010",
+      "src": "Pictures/gal41/",
+      "images": [
+        { "thumb": "DSCF5156.JPG red(small).JPG", "main": "DSCF5156.JPG" },
+        { "thumb": "DSCF5160.JPG red(small).JPG", "main": "DSCF5160.JPG" },
+        { "thumb": "DSCF5168.JPG red(small).JPG", "main": "DSCF5168.JPG" },
+        { "thumb": "DSCF5169.JPG red(small).JPG", "main": "DSCF5169.JPG" },
+        { "thumb": "DSCF5171.JPG red(small).JPG", "main": "DSCF5171.JPG" },
+        { "thumb": "DSCF5172.JPG red(small).JPG", "main": "DSCF5172.JPG" },
+        { "thumb": "DSCF5154.JPG red(small).JPG", "main": "DSCF5154.JPG" },
+        { "thumb": "DSCF5170.JPG red 2(small).JPG", "main": "DSCF5170.JPG" }
+      ]
+    },
+    {
+      "title": "Summer 2010",
+      "src": "Pictures/gal40/",
+      "images": [
+        { "thumb": "23.jpg", "text": "A long way from Bollywood" },
+        {
+          "thumb": "Joyce%20ymca%20and%20scarecrow%20John%20045.jpg",
+          "text": "YMCA Summer Camp"
+        }
+      ]
+    },
+    {
+      "title": "Flowerpot scarecrows",
+      "src": "Pictures/Gal39/",
+      "images": [
+        { "thumb": "DSCF4266 2(small).JPG" },
+        { "thumb": "DSCF4269(small).JPG" },
+        { "thumb": "DSCF4270 2(small).JPG" },
+        { "thumb": "DSCF4271 2(small).JPG" },
+        { "thumb": "DSCF4274 2(small).JPG" },
+        { "thumb": "DSCF4275 2(small).JPG" }
+      ]
+    },
+    {
+      "title": "Harry found a new home in Kent",
+      "src": "Pictures/gal38/",
+      "images": [
+        {
+          "thumb": "s1.jpg",
+          "main": "1.JPG",
+          "text": "Harry arrives."
+        },
+        {
+          "thumb": "s2.jpg",
+          "main": "2.JPG",
+          "text": "Harry takes over from existing Scarecrow who had done a good innings. "
+        },
+        {
+          "thumb": "s4.jpg",
+          "main": "4.JPG",
+          "text": "Harry watches over his new domain. "
+        },
+        { "thumb": "s3.jpg", "main": "3.JPG", "text": "" }
+      ]
+    },
+    {
+      "title": "Various Scarecrows 2009",
+      "src": "Pictures/gal37/",
+      "text": "Character Counts winner, <b>Joyce Warren</b> <a href = 'Pictures\\gal37\\doc.htm'>Click hear to read</a> ",
+      "images": [
+        { "thumb": "8(small).jpg", "main": "8.JPG", "text": "Indiana Jones " },
+        {
+          "thumb": "2(small).jpg",
+          "main": "2.JPG",
+          "text": "Joyce with Steve Irvin"
+        },
+        {
+          "thumb": "SI(small).jpg",
+          "main": "SI.JPG",
+          "text": "A tribute to Steve Irvin done in Montecito YMCA."
+        },
+        { "thumb": "7(small).jpg", "main": "7.JPG" },
+
+        {
+          "thumb": "6(small).jpg",
+          "main": "6.JPG",
+          "text": "Steve Irvin with a lizard and a croc."
+        },
+        {
+          "thumb": "Ij(small).jpg",
+          "main": "Ij.JPG",
+          "text": "Indiana Jones in California looking for that pot of gold."
+        }
+      ]
+    }
+  ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

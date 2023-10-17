@@ -5,7 +5,7 @@ function Barnie() {
             <div className="card shadow text-center  p-3 p-lg-4 pb-lg-3 pb-0 mt-2">
                 <h5>Buy A FlowerPot Scarecrow</h5>
                 <a href="Pictures/sale3.jpg" className="mx-auto">
-                    <img src="http://www.scarecrowland.co.uk/Pictures/saleSmall3.jpg" style={{ height: "16rem" }} className="rounded  mx-auto" alt="Scarecrow for sale" />
+                    <img src="http://www.scarecrowland.co.uk/Pictures/saleSmall3.jpg" style={{ height: "16rem" }} className="rounded  mx-auto" alt="Scarecrow for sale" target="_blank" />
                 </a>
 
                 The Scarecrow is 41cm by 36cm.
@@ -42,7 +42,7 @@ function Barnie() {
             </div>
 
             <div className="text-center mt-2 ">
-                <img src="http://www.scarecrowland.co.uk/Pictures/gal36/Boris%20Johnson%204(Small).jpg" className="rounded img-fluid" alt="..." />
+                <img src="http://www.scarecrowland.co.uk/Pictures/gal36/Boris%20Johnson%204(Small).jpg" className="rounded img-fluid" alt="Boris Johnson Scarecrow" />
             </div>
 
         </div>

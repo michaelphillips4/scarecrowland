@@ -23,10 +23,10 @@ h2{
   .gallery-flex-container {
     flex-direction: column;
   }
-  .gallery-figure {
+ .gallery-figure {
     width: 95%;
-  }
+  } /* 
   .gallery-img {
     width: 95%;
-  }
+  } */
 }
