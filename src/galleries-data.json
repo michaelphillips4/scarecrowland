@@ -347,12 +347,12 @@
       ]
     },
     {
-      "title": "Goldy's 2007",
+      "title": "Goldys 2007",
       "src": "Pictures/gal31/",
       "images": [
         {
           "thumb": "00.JPG",
-          "text": "Just arrived at Goldy's on my Broomstick !!"
+          "text": "Just arrived at Goldys on my Broomstick !!"
         },
         { "thumb": "01.JPG", "text": "Nephew Harry in Farm Shop." },
         { "thumb": "02.JPG", "text": "Piano Player - Rocket Man" },
@@ -389,15 +389,107 @@
     {
       "title": "Various scarecrows in summer 2007",
       "src": "Pictures/gal30/",
-      "images": [ 
-        {"thumb": "twashington5.jpg","text": "Way out West Scarecrows" },
-        {"thumb": "tbeppe2.jpg","text": "Beppe having had one too many in the vineyard."},
-        {"thumb": "tMrs-HubbleBubble.jpg","text": "Mrs-HubbleBubble and her partner or is it Uncle Sam celebrating July the 4th"},
-        {"thumb": "twashington1.jpg","text": "" },
-        {"thumb": "twashington2.jpg","text": "" },
-        {"thumb": "twashington3.jpg","text": "Just to prove young and old like making scarecrows."},
-        {"thumb": "twashington4.jpg","text": "" },
-        {"thumb": "tbeppe1.jpg","text": "" }
+      "images": [
+        { "thumb": "twashington5.jpg", "text": "Way out West Scarecrows" },
+        {
+          "thumb": "tbeppe2.jpg",
+          "text": "Beppe having had one too many in the vineyard."
+        },
+        {
+          "thumb": "tMrs-HubbleBubble.jpg",
+          "text": "Mrs-HubbleBubble and her partner or is it Uncle Sam celebrating July the 4th"
+        },
+        { "thumb": "twashington1.jpg", "text": "" },
+        { "thumb": "twashington2.jpg", "text": "" },
+        {
+          "thumb": "twashington3.jpg",
+          "text": "Just to prove young and old like making scarecrows."
+        },
+        { "thumb": "twashington4.jpg", "text": "" },
+        { "thumb": "tbeppe1.jpg", "text": "" }
+      ]
+    },
+    {
+      "title": "Creating atma 2007",
+      "text": "Other pictures of the making of atma from waywebby",
+      "src": "Pictures/gal29/",
+      "images": [
+        { "thumb": "tIMG_0959.jpg", "text": "" },
+        { "thumb": "tIMG_0962.jpg", "text": "" },
+        { "thumb": "tIMG_0965.jpg", "text": "" },
+        { "thumb": "tIMG_0961.jpg", "text": "" }
+      ]
+    },
+    {
+      "title": "Summer solstice ventura California 2007",
+      "src": "Pictures/gal28/",
+      "images": [
+        { "thumb": "t5140580-R1-002-00A.jpg" },
+        { "thumb": "t5140580-R1-004-0A.jpg" },
+        { "thumb": "t5140580-R1-010-3A.jpg" },
+        { "thumb": "t5140580-R1-008-2A.jpg" },
+        { "thumb": "t5140580-R1-014-5A.jpg" },
+        { "thumb": "t5140580-R1-020-8A.jpg" },
+        { "thumb": "t5140580-R1-022-9A.jpg" },
+        { "thumb": "t5140580-R1-024-10A.jpg" },
+        { "thumb": "t5140580-R1-032-14A.jpg" },
+        { "thumb": "t5140580-R1-028-12A.jpg" },
+        { "thumb": "t5140580-R1-034-15A.jpg" },
+        { "thumb": "t5140580-R1-042-19A.jpg" }
+      ]
+    },
+    {
+      "title": "Fiesta (Montecito) ymca summer 2006",
+      "src": "Pictures/gal27/",
+      "images": [
+        {"thumb":"t0702778-R1-020-8A.jpg"},
+        {"thumb":"t0702778-R1-022-9A.jpg"},
+        {"thumb":"t0702778-R1-032-14A.jpg"},
+        {"thumb":"t0702778-R1-050-23A.jpg"},
+        {"thumb":"t0702778-R1-036-16A.jpg"},
+        {"thumb":"t0702778-R1-040-18A.jpg"},
+        {"thumb":"t0702778-R1-044-20A.jpg"},
+        {"thumb":"t0702778-R1-048-22A.jpg"},
+        {"thumb":"t0702778-R1-034-15A.jpg"}
+      ]
+    } ,
+    {
+      "title": "Pasadena Workshop summer 2006",
+      "src": "Pictures/gal26/",
+      "images": [
+        {"thumb":"t0717509-r1-022-9a.jpg"},
+        {"thumb":"t0717509-r1-024-10a.jpg"},
+        {"thumb":"t0717509-r1-052-24a.jpg"},
+        {"thumb":"t0717509-r1-030-13a.jpg"},
+        {"thumb":"t0717509-r1-040-18a.jpg"},
+        {"thumb":"t0717509-r1-042-19a.jpg"},
+        {"thumb":"t0717509-r1-044-20a.jpg"},
+        {"thumb":"t0717509-r1-046-21a.jpg"},
+        {"thumb":"t0717509-r1-048-22a.jpg"}
+       
+      ]
+    },
+    {
+      "title": "Memorial may weekend",
+      "src": "Pictures/062005/",
+      "images": [
+        {"thumb":"fjoyces scarecrows-memorial day 3 002.jpg"},
+        {"thumb":"fjoyces scarecrows-memorial day 3 003.jpg"},
+        {"thumb":"f007_21.JPG"}
+      ]
+    }
+    ,
+    {
+      "title": "Montecito pre School Workshop",
+      "src": "Pictures/062005/",
+      "images": [
+        {"thumb":"fp4.jpg"},
+        {"thumb":"fp5.jpg"},
+        {"thumb":"fp3.jpg"},
+        {"thumb":"fp1.jpg"},
+        {"thumb":"fp2.jpg"},
+        {"thumb":"fp6.jpg"}
+        
       ]
     }
   ]

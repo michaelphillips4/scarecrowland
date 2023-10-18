@@ -3,20 +3,20 @@ import data from "../galleries-data.json";
 
 const GalleryNavLinks = (props) => {
 
-    const id = Number(props.id);
-    const previous = id - 1;
-    const next = id + 1;
+    const index = Number(props.index);
+    const previous = index - 1;
+    const next = index + 1;
 
     const galleryCount = data.Galleries.length ;
-    //console.log(previous, galleryCount, data);
+   
     return <>
         <span className="text-center">
             {(previous > -1) > 0 &&
-                <Link to="../Gallery" state={previous} >Previous</Link>
+                <Link to={`/Gallery/${previous}`}>Previous</Link>
             }
             &nbsp;<Link to="/">Home</Link>&nbsp;
             {(next < galleryCount) > 0 &&
-                <Link to="../Gallery" state={next} >Next</Link>
+                <Link to={`/Gallery/${next}`} >Next</Link>
             }
         </span>
     </>

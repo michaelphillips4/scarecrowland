@@ -11,30 +11,17 @@ function GalleryList() {
         Click on a link to view the gallery
 
         {data.Galleries.map((j, index) =>
-          <Link to="Gallery" state={index} data={j}  > {j.title}</Link>)
+          <Link to={`Gallery/${index}`} key={index} > {j.title}</Link>)
         }
-      {/*   <br />  */}
+     {/* 
         <a href="http://regentsparkallotmentgarden.blogspot.co.uk/2011/10/harvest-festival-2011-part-2-scarecrows.html">
           Harvest festival 2011
-        </a>
-        {/* <hr /> */}
-
-       
-       
-       
-        
-       
-        
+        </a> */}
+    
+    <hr />
       
-       
-       
-        <a href="gal30.html">  various scarecrows in summer 2007</a>
-        <a href="gal29.html">  Creating atma 2007</a>
-        <a href="gal28.html">  summer solstice ventura California 2007</a>
-        <a href="gal27.html">  fiesta (montecito) ymca summer 2006</a>
-        <a href="gal26.html">  Pasadena Workshop summer 2006</a>
-        <a href="gal23.html">  Memorial may weekend</a>
-        <a href="gal22.html">  Montecito pre School Workshop</a>
+
+
         <a href="gal21.html">  Montecito Family YMCA summer 2005</a>
         <a href="gal20.html">  Hollister School Garden (Goleta)</a>
         <a href="gal19.html">  more workshop at Hollister School</a>
