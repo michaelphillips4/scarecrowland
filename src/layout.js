@@ -8,7 +8,7 @@ const Layout = () => {
             <Header />
             <Outlet />
             <br />
-  
+            <p className="text-center">v2.0</p>
         </>
     )
 };

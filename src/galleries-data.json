@@ -35,7 +35,7 @@
       ]
     },
     {
-      "title": "March 2013",
+      "title": "March Scarecrow",
       "src": "Pictures/gal46/",
       "images": [
         {
@@ -46,8 +46,8 @@
       ]
     },
     {
-      "title": "Harvest festival 2012 Green Man",
-      "text": "The Green Man - For Capital Growth in partnership with Regents Park allotments (Harvest fertival 2012)",
+      "title": "Harvest festival Green Man",
+      "text": "The Green Man - For Capital Growth in partnership with Regents Park allotments (Harvest festival)",
       "src": "Pictures/gal45/",
       "images": [
         {
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "title": "Olympic Team UK 2012",
+      "title": "Olympic Team UK",
       "src": "Pictures/gal43/",
       "images": [
         {
@@ -128,7 +128,7 @@
       ]
     },
     {
-      "title": "Autumn Brighton 2010",
+      "title": "Autumn in Brighton",
       "src": "Pictures/gal41/",
       "images": [
         { "thumb": "DSCF5156.JPG red(small).JPG", "main": "DSCF5156.JPG" },
@@ -142,7 +142,7 @@
       ]
     },
     {
-      "title": "Summer 2010",
+      "title": "Summer Scarecrows",
       "src": "Pictures/gal40/",
       "images": [
         { "thumb": "23.jpg", "text": "A long way from Bollywood" },
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "title": "Flowerpot scarecrows",
+      "title": "Flowerpot Scarecrows",
       "src": "Pictures/Gal39/",
       "images": [
         { "thumb": "DSCF4266 2(small).JPG" },
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "title": "Various Scarecrows 2009",
+      "title": "Various Scarecrows",
       "src": "Pictures/gal37/",
       "images": [
         { "thumb": "8(small).jpg", "main": "8.JPG", "text": "Indiana Jones " },
@@ -216,7 +216,7 @@
       ]
     },
     {
-      "title": "Celebrity Scarecrows 2008",
+      "title": "Celebrity Scarecrows",
       "src": "Pictures/gal36/",
       "text": "Scarecrows made for Seeds of Changes new products launch",
       "images": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "title": "Scarecrows in the USA 2008",
+      "title": "Scarecrows in the USA",
       "src": "Pictures/gal35/",
       "images": [
         {
@@ -304,7 +304,7 @@
       ]
     },
     {
-      "title": "Fred In The USA 2008",
+      "title": "Fred In The USA",
       "src": "Pictures/gal34/",
       "images": [
         {
@@ -322,7 +322,7 @@
       ]
     },
     {
-      "title": "Workshops around Sussex 2007",
+      "title": "Workshops around Sussex",
       "src": "Pictures/gal33/",
       "images": [
         { "thumb": "phone pics 2007 096 (Small).jpg" },
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "title": "Scarecrows in actions 2007",
+      "title": "Scarecrows in actions",
       "src": "Pictures/gal32/",
       "images": [
         { "thumb": "phone pics 2007 110 (Small).jpg" },
@@ -347,7 +347,7 @@
       ]
     },
     {
-      "title": "Goldys 2007",
+      "title": "Goldys",
       "src": "Pictures/gal31/",
       "images": [
         {
@@ -410,7 +410,7 @@
       ]
     },
     {
-      "title": "Creating atma 2007",
+      "title": "Creating atma ",
       "text": "Other pictures of the making of atma from waywebby",
       "src": "Pictures/gal29/",
       "images": [
@@ -421,7 +421,7 @@
       ]
     },
     {
-      "title": "Summer solstice ventura California 2007",
+      "title": "Summer solstice ventura California ",
       "src": "Pictures/gal28/",
       "images": [
         { "thumb": "t5140580-R1-002-00A.jpg" },
@@ -439,58 +439,131 @@
       ]
     },
     {
-      "title": "Fiesta (Montecito) ymca summer 2006",
+      "title": "Fiesta (Montecito) YMCA",
       "src": "Pictures/gal27/",
       "images": [
-        {"thumb":"t0702778-R1-020-8A.jpg"},
-        {"thumb":"t0702778-R1-022-9A.jpg"},
-        {"thumb":"t0702778-R1-032-14A.jpg"},
-        {"thumb":"t0702778-R1-050-23A.jpg"},
-        {"thumb":"t0702778-R1-036-16A.jpg"},
-        {"thumb":"t0702778-R1-040-18A.jpg"},
-        {"thumb":"t0702778-R1-044-20A.jpg"},
-        {"thumb":"t0702778-R1-048-22A.jpg"},
-        {"thumb":"t0702778-R1-034-15A.jpg"}
+        { "thumb": "t0702778-R1-020-8A.jpg" },
+        { "thumb": "t0702778-R1-022-9A.jpg" },
+        { "thumb": "t0702778-R1-032-14A.jpg" },
+        { "thumb": "t0702778-R1-050-23A.jpg" },
+        { "thumb": "t0702778-R1-036-16A.jpg" },
+        { "thumb": "t0702778-R1-040-18A.jpg" },
+        { "thumb": "t0702778-R1-044-20A.jpg" },
+        { "thumb": "t0702778-R1-048-22A.jpg" },
+        { "thumb": "t0702778-R1-034-15A.jpg" }
       ]
-    } ,
+    },
     {
-      "title": "Pasadena Workshop summer 2006",
+      "title": "Pasadena Summer Workshop",
       "src": "Pictures/gal26/",
       "images": [
-        {"thumb":"t0717509-r1-022-9a.jpg"},
-        {"thumb":"t0717509-r1-024-10a.jpg"},
-        {"thumb":"t0717509-r1-052-24a.jpg"},
-        {"thumb":"t0717509-r1-030-13a.jpg"},
-        {"thumb":"t0717509-r1-040-18a.jpg"},
-        {"thumb":"t0717509-r1-042-19a.jpg"},
-        {"thumb":"t0717509-r1-044-20a.jpg"},
-        {"thumb":"t0717509-r1-046-21a.jpg"},
-        {"thumb":"t0717509-r1-048-22a.jpg"}
-       
+        { "thumb": "t0717509-r1-022-9a.jpg" },
+        { "thumb": "t0717509-r1-024-10a.jpg" },
+        { "thumb": "t0717509-r1-052-24a.jpg" },
+        { "thumb": "t0717509-r1-030-13a.jpg" },
+        { "thumb": "t0717509-r1-040-18a.jpg" },
+        { "thumb": "t0717509-r1-042-19a.jpg" },
+        { "thumb": "t0717509-r1-044-20a.jpg" },
+        { "thumb": "t0717509-r1-046-21a.jpg" },
+        { "thumb": "t0717509-r1-048-22a.jpg" }
       ]
     },
     {
       "title": "Memorial may weekend",
       "src": "Pictures/062005/",
       "images": [
-        {"thumb":"fjoyces scarecrows-memorial day 3 002.jpg"},
-        {"thumb":"fjoyces scarecrows-memorial day 3 003.jpg"},
-        {"thumb":"f007_21.JPG"}
+        { "thumb": "fjoyces scarecrows-memorial day 3 002.jpg" },
+        { "thumb": "fjoyces scarecrows-memorial day 3 003.jpg" },
+        { "thumb": "f007_21.JPG" }
       ]
-    }
-    ,
+    },
     {
       "title": "Montecito pre School Workshop",
       "src": "Pictures/062005/",
       "images": [
-        {"thumb":"fp4.jpg"},
-        {"thumb":"fp5.jpg"},
-        {"thumb":"fp3.jpg"},
-        {"thumb":"fp1.jpg"},
-        {"thumb":"fp2.jpg"},
-        {"thumb":"fp6.jpg"}
-        
+        { "thumb": "fp4.jpg" },
+        { "thumb": "fp5.jpg" },
+        { "thumb": "fp3.jpg" },
+        { "thumb": "fp1.jpg" },
+        { "thumb": "fp2.jpg" },
+        { "thumb": "fp6.jpg" }
+      ]
+    },
+    {
+      "title": "Montecito Family YMCA",
+      "src": "Pictures/062005/",
+      "images": [
+        { "thumb": "4.jpg" },
+        { "thumb": "5.jpg" },
+        { "thumb": "3.jpg" },
+        { "thumb": "1.JPG" },
+        { "thumb": "2.jpg" },
+        { "thumb": "6.JPG" },
+        { "thumb": "7.JPG" },
+        { "thumb": "8.JPG" },
+        { "thumb": "9.JPG" }
+      ]
+    },
+    {
+      "title": "More Workshops at Hollister School",
+      "src": "Pictures/012005Pictures/",
+      "images": [
+        { "thumb": "005_21A.JPG" },
+        { "thumb": "002_24A.JPG" },
+        { "thumb": "003_23A.JPG" },
+        { "thumb": "016_10A.JPG" },
+        { "thumb": "017_9A.JPG" },
+        { "thumb": "023_3A.JPG" },
+        { "thumb": "007_19A.JPG" },
+        { "thumb": "008_18A.JPG" },
+        { "thumb": "009_17A.JPG" },
+        { "thumb": "019_7A.JPG" },
+        { "thumb": "011_15A.JPG" },
+        { "thumb": "012_14A.JPG" },
+        { "thumb": "013_13A.JPG" },
+        { "thumb": "014_12A.JPG" },
+        { "thumb": "015_11A.JPG" },
+        { "thumb": "004_22A.JPG" },
+        { "thumb": "027_00A.JPG" },
+        { "thumb": "006_20A.JPG" },
+        { "thumb": "010_16A.JPG" },
+        { "thumb": "020_6A.JPG" },
+        { "thumb": "021_5A.JPG" },
+        { "thumb": "022_4A.JPG" },
+        { "thumb": "018_8A.JPG" },
+        { "thumb": "024_2A.JPG" },
+        { "thumb": "025_1A.JPG" },
+        { "thumb": "026_0A.JPG" }
+      ]
+    },
+    {
+      "title": "Workshop at Hollister School",
+      "src": "Pictures/012005Pictures/",
+      "images": [
+        { "thumb": "102-0272.jpg" },
+        { "thumb": "102_0273.jpg" },
+        { "thumb": "102_0277.jpg" },
+        { "thumb": "114_1413.jpg" },
+        { "thumb": "114_1414.jpg" },
+        { "thumb": "114_1417.jpg" },
+        { "thumb": "114_1403.jpg" },
+        { "thumb": "114_1404.jpg" }
       ]
     }
+    ,
+    {
+ "title": "The four season scarecrows",
+ "src": "Pictures/012005Pictures/",
+ "images": [
+   { "thumb": "2005 scarecrows 001.jpg"},
+   { "thumb": "2005 scarecrows 002.jpg"},
+   { "thumb": "2005 scarecrows 015.jpg"},
+   { "thumb": "2005 scarecrows 004.jpg" },
+   { "thumb": "2005 scarecrows 005.jpg"},
+   { "thumb": "2005 scarecrows 006.jpg"},
+   { "thumb": "2005 scarecrows 008.jpg" }
+  
+ ]    }
+
   ]
 }

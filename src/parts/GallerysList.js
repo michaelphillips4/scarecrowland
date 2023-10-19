@@ -13,21 +13,12 @@ function GalleryList() {
         {data.Galleries.map((j, index) =>
           <Link to={`Gallery/${index}`} key={index} > {j.title}</Link>)
         }
-     {/* 
-        <a href="http://regentsparkallotmentgarden.blogspot.co.uk/2011/10/harvest-festival-2011-part-2-scarecrows.html">
-          Harvest festival 2011
-        </a> */}
+  
+    
     
     <hr />
       
 
-
-        <a href="gal21.html">  Montecito Family YMCA summer 2005</a>
-        <a href="gal20.html">  Hollister School Garden (Goleta)</a>
-        <a href="gal19.html">  more workshop at Hollister School</a>
-
-        <a href="gal18.html">  workshop at Hollister School</a>
-        <a href="gal17.html">  the four season <b>scarecrows</b></a>
         <a href="gal16.html">  various <b>scarecrows</b></a>
         <a href="gal15.html"> fall and christmas in the usa </a>
         <a href="gal14.html"> various in the usa</a>
@@ -67,6 +58,11 @@ function GalleryList() {
         <a href="gal1.html">
           an array of traditional <b>scarecrows</b>
         </a>
+
+        <a href="http://regentsparkallotmentgarden.blogspot.co.uk/2011/10/harvest-festival-2011-part-2-scarecrows.html">
+          Harvest festival 2011
+        </a> 
+
         <hr />
         Ceramics
 
