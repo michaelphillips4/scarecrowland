@@ -552,7 +552,7 @@
     }
     ,
     {
- "title": "The four season scarecrows",
+ "title": "The Four Season Scarecrows",
  "src": "Pictures/012005Pictures/",
  "images": [
    { "thumb": "2005 scarecrows 001.jpg"},
@@ -564,6 +564,19 @@
    { "thumb": "2005 scarecrows 008.jpg" }
   
  ]    }
-
+ ,
+    {
+ "title": "Various Scarecrows",
+ "src": "Pictures/",
+ "images": [
+   { "thumb": "20041010510(6).JPG"},
+   { "thumb": "20041010510(1).jpg"},
+   { "thumb": "20041010510(2).jpg"},
+   { "thumb": "20041010510.JPG"},
+   { "thumb": "20041010510(4).JPG"},
+   { "thumb": "20041010510(5).JPG"},
+   { "thumb": "20041010510(7).JPG"},
+   { "thumb": "20041010510(3).jpg"}
+ ]}
   ]
 }

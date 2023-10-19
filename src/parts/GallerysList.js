@@ -13,13 +13,9 @@ function GalleryList() {
         {data.Galleries.map((j, index) =>
           <Link to={`Gallery/${index}`} key={index} > {j.title}</Link>)
         }
-  
-    
-    
+
     <hr />
       
-
-        <a href="gal16.html">  various <b>scarecrows</b></a>
         <a href="gal15.html"> fall and christmas in the usa </a>
         <a href="gal14.html"> various in the usa</a>
         <a href="gal12.html">
