@@ -549,34 +549,424 @@
         { "thumb": "114_1403.jpg" },
         { "thumb": "114_1404.jpg" }
       ]
+    },
+    {
+      "title": "The Four Season Scarecrows",
+      "src": "Pictures/012005Pictures/",
+      "images": [
+        { "thumb": "2005 scarecrows 001.jpg" },
+        { "thumb": "2005 scarecrows 002.jpg" },
+        { "thumb": "2005 scarecrows 015.jpg" },
+        { "thumb": "2005 scarecrows 004.jpg" },
+        { "thumb": "2005 scarecrows 005.jpg" },
+        { "thumb": "2005 scarecrows 006.jpg" },
+        { "thumb": "2005 scarecrows 008.jpg" }
+      ]
+    },
+    {
+      "title": "Various Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        { "thumb": "20041010510(6).JPG" },
+        { "thumb": "20041010510(1).jpg" },
+        { "thumb": "20041010510(2).jpg" },
+        { "thumb": "20041010510.JPG" },
+        { "thumb": "20041010510(4).JPG" },
+        { "thumb": "20041010510(5).JPG" },
+        { "thumb": "20041010510(7).JPG" },
+        { "thumb": "20041010510(3).jpg" }
+      ]
+    },
+    {
+      "title": "Fall and Christmas in the USA",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "santa1.jpg",
+          "text": "Santa Claus arriving down a chimney in Santa Barbara Ho ! Ho !"
+        },
+        { "thumb": "santa2s.jpg", "text": "Joyce with Santa Claus" },
+        { "thumb": "santa3s.jpg", "text": "Santa" },
+        { "thumb": "fall1s.jpg", "text": "Sir Archibald Smyth with Nicky " },
+        {
+          "thumb": "fall2s.jpg",
+          "text": "Joyce Penny and Archibald in the garden "
+        },
+        { "thumb": "fall3s.jpg", "text": "" },
+        { "thumb": "fall4s.jpg", "text": "Mr Vegas" },
+        {
+          "thumb": "fall5s.jpg",
+          "text": "Mr Vegas before he loses his shirt "
+        },
+        { "thumb": "fall6s.jpg", "text": "" }
+      ]
+    },
+    {
+      "title": "Various USA",
+      "src": "Pictures/",
+      "images": [
+        { "thumb": "rodeoman010.jpg", "text": "Rodeo Man in Carpinteria" },
+        { "thumb": "rodeoman012.jpg", "text": "Rodeo Man with Joyce" },
+        {
+          "thumb": "rodeoman014.jpg",
+          "text": "A horse getting to know Rodeo Man"
+        },
+        {
+          "thumb": "americanman1.jpg",
+          "text": "American Man with the American Flag "
+        },
+        { "thumb": "americanman2.jpg", "text": "Joyce and American Man." },
+        {
+          "thumb": "americanman3.jpg",
+          "text": "American Man later to be named Sam by the children Of 'San Ramon' Crow Canyon institute."
+        },
+        {
+          "thumb": "200310scarecrow002.jpg",
+          "text": "Pumpkin Man in Dan and Penny's Orchard in California"
+        },
+        { "thumb": "200310scarecrow003.jpg", "text": "Pumpkin Man" },
+        {
+          "thumb": "200310scarecrow004.jpg",
+          "text": "Pumpkin man in the orchard with the avocado trees"
+        }
+      ]
+    },
+    {
+      "title": "Christmas in the USA.",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "gal129.jpg",
+          "text": "A US News paper article on Joyce's work"
+        },
+
+        {
+          "thumb": "gal122.jpg",
+          "text": "A Tree Scarecrow amongst the oranges Summerland California USA January 2003"
+        },
+        {
+          "thumb": "gal123.jpg",
+          "text": "Mini Scarecrow Xmas 2002 Carpinteria California USA"
+        },
+        {
+          "thumb": "gal124.jpg",
+          "text": "Santa in Making Studio commissioned by a Californian Journal "
+        },
+        {
+          "thumb": "gal125.jpg",
+          "text": "Santa Claus Leaving Santa Clause Land Christmas Eve 2002."
+        },
+        {
+          "thumb": "gal121.jpg",
+          "text": "RoLuck James Bond with Martini Carpinteria California Drinking in the New Year 2003 ( foot hills in background )"
+        },
+        {
+          "thumb": "gal126.jpg",
+          "text": "Santa En Route to find his Sleigh and Reindeer"
+        },
+        {
+          "thumb": "gal128.jpg",
+          "text": "Orick Beautification Project's Scarecrow workshop"
+        },
+        { "thumb": "gal127.jpg", "text": "News paper article in Orick USA" }
+      ]
+    },
+    {
+      "title": "Work in the  USA",
+      "src": "Pictures/",
+      "images": [
+        { "thumb": "gal111.jpg", "text": "Reindeer looking for Santa ! " },
+
+        {
+          "thumb": "gal112.jpg",
+          "text": "Carol starts the Orick Scarecrow family"
+        },
+        {
+          "thumb": "gal113.jpg",
+          "text": "Scarecrow Home in Orick/Eureka California"
+        },
+        {
+          "thumb": "gal114.jpg",
+          "text": "Joyce with Scarecrow family Orick/Eureka California October 2002"
+        },
+
+        {
+          "thumb": "gal116.jpg",
+          "text": "Scarecrows under construction with Gwen Orick/Eureka California"
+        },
+        {
+          "thumb": "gal115.jpg",
+          "text": "Scarecrow family Orick/Eureka California October 2002"
+        },
+
+        { "thumb": "gal118.jpg", "text": "Big Dan after a year in sunshine " },
+        {
+          "thumb": "gal117.jpg",
+          "text": "USA 2002 (James bond in the making)"
+        },
+        {
+          "thumb": "gal119.jpg",
+          "text": "Penny getting her dream !!! Dressing James Bond Dec 2002"
+        }
+      ]
+    },
+    {
+      "title": "Workshops in the UK.",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "scare101.jpg",
+          "text": "Harry Potter With Inventor Groombridge Kent"
+        },
+        {
+          "thumb": "scare102.jpg",
+          "text": "Queuing up to make Flower Pot Scarecrows"
+        },
+        { "thumb": "scare103.jpg", "text": "Confusion !!" },
+        { "thumb": "scare104.jpg", "text": "Its Okay Now All Peaceful" },
+        { "thumb": "scare105.jpg", "text": "Busy Busy" },
+        { "thumb": "scare106.jpg", "text": "Nearly There !!" },
+        { "thumb": "scare107.jpg", "text": "Completed by the twins" },
+        { "thumb": "scare108.jpg", "text": "Jill looks on left of picture " },
+        { "thumb": "scare109.jpg", "text": "Megan A living Scarecrow" }
+      ]
+    },
+    {
+      "title": "Scarecrow for Joe.",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "scare91.JPG",
+          "text": "Lookalike scarecrow made for Joe as surprise birthday gift"
+        },
+        { "thumb": "scare95.JPG", "text": "The unveiling of Joe" },
+        {
+          "thumb": "scare94.JPG",
+          "text": "The Two Joes come to terms with one another"
+        },
+        { "thumb": "scare96.JPG", "text": "Is it right can we see two Joes ?" },
+        {
+          "thumb": "scare97.JPG",
+          "text": "Barbara and Anthony talking with Joe being filmed in the background"
+        },
+        { "thumb": "scare93.JPG", "text": "Fanfare for Joe the Scarecrow" },
+        {
+          "thumb": "scare92.JPG",
+          "text": "Abigail and Ethan under construction "
+        },
+        {
+          "thumb": "scare98.JPG",
+          "text": "Abigail and Ethan looking forward to their flight to Ureka California"
+        }
+      ]
+    },
+    {
+      "title": "Workshops in USA.",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "8crow3.JPG",
+          "text": "Flower pot scarecrows made at the Rancho Santa Fe Community Center"
+        },
+        {
+          "thumb": "8crow6.JPG",
+          "text": "George for Timothy Buynay Attorney Santa Barbara USA"
+        },
+        {
+          "thumb": "8crow4.JPG",
+          "text": "Flower pot scarecrows made at the Rancho Santa Fe Community Center."
+        },
+        {
+          "thumb": "8crow5.JPG",
+          "text": "A Scarecrow enjoying the Californian sunshine made at the Rancho Santa Fe Garden Club"
+        },
+        {
+          "thumb": "8crow2.JPG",
+          "text": "Rancho Santa Fe Garden Club ' Its a grand Life ! '"
+        },
+        { "thumb": "8crow9.JPG", "text": "How laid Back can a scarecrow be" },
+        { "thumb": "8crow7.JPG", "text": "Big Dan Carpinteria California USA" },
+        {
+          "thumb": "8crow1.JPG",
+          "text": "Rancho Santa Fe Garden Club Oct 2001 How to travel if your a scarecrow"
+        },
+        { "thumb": "8crow8.JPG", "text": "AToo much sunshine" }
+      ]
+    },
+    {
+      "title": "Advertising Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "organic1.jpg",
+          "text": "2 Naked Scarecrows at Sheepdrove Farm in Lambourn Berkshire UK"
+        },
+        {
+          "thumb": "organic2.jpg",
+          "text": "Anne Widdecombe made for 'The Enjoy Organic Company'"
+        },
+        {
+          "thumb": "organic4.jpg",
+          "text": "2 Naked Scarecrows with advertising Banner"
+        },
+        {
+          "thumb": "organic3.jpg",
+          "text": "The two naked scarecrows also featured in the business section of the times Aug 2001"
+        },
+        {
+          "thumb": "Anne2.jpg",
+          "text": "Anne Widdecombe perusing british country side"
+        },
+        {
+          "thumb": "allotment.JPG",
+          "text": "Dear Joyce,I thought you would like to have this photograph of Fred I have taken. This is to show you what a scarecrow looks like after 4 1/2 years - he has been in the garden through sun, wind, rain and snow !! And he really does keep the birds off the vegetables. Judy & Peter"
+        }
+      ]
+    },
+    {
+      "title": "Celebrities and Famous Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "s12.jpg",
+          "text": "Ringo Starr made for a US record company"
+        },
+
+        { "thumb": "s16.jpg", "text": "Thomas Hardy & John Peel" },
+        { "thumb": "s18.jpg", "text": "Charlie Chaplin" },
+        { "thumb": "s11.jpg", "text": "Charles Dickens with friends" },
+        { "thumb": "s14.jpg", "text": "The Queen Mum" },
+        {
+          "thumb": "s20.jpg",
+          "text": "Charles II for the English Heritage at Boscabel House"
+        },
+        { "thumb": "s7.jpg", "text": "TMary Poppins" },
+        { "thumb": "s8.jpg", "text": "Dane Edna Everage" },
+        { "thumb": "s11a.jpg", "text": "Peach Blossom" }
+      ]
+    },
+    {
+      "title": "Traditional Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "s3.jpg",
+          "text": "Golfer made for the West Surrey Golf Course"
+        },
+
+        {
+          "thumb": "s4.jpg",
+          "text": "Amos made for the Hampton Court Flower Show, Council Rural Protection England (CRPE)"
+        },
+        {
+          "thumb": "s10.jpg",
+          "text": "A Pearly King Scarecrow who accompanied Joyce to a British Broadcasting (BBC Radio) show "
+        },
+        {
+          "thumb": "s21.jpg",
+          "text": "ScotsMan (Tattie Bogie) and his friend"
+        },
+        { "thumb": "s27.jpg", "text": "Violet Elizabeth" },
+        { "thumb": "s15.jpg", "text": "Colourful scarecrow" },
+        { "thumb": "s9.jpg", "text": "Victorian window scarecrows" },
+        {
+          "thumb": "s19.jpg",
+          "text": "Theo a teacher with Duke Of Monmouth Scarecrow"
+        },
+        {
+          "thumb": "s29.jpg",
+          "text": "The Three Scarecrows after a Night on The Tiles"
+        }
+      ]
+    },
+    {
+      "title": "Various Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        { "thumb": "Judge.JPG", "text": "Barrister" },
+
+        {
+          "thumb": "littledoll.JPG",
+          "text": "Display scarecrow for a shop in Devon"
+        },
+        { "thumb": "momets.jpg", "text": "Trio of traditional scarecrows" },
+        {
+          "thumb": "scrow28.JPG",
+          "text": "Tin Man from the Film Wizard of Oz"
+        },
+        { "thumb": "santa1.jpg", "text": "Santa" },
+        {
+          "thumb": "scrow18.JPG",
+          "text": "2 Clown scarecrows made to raise funds for children in need charity"
+        },
+        { "thumb": "scrow11.JPG", "text": "Ringo Starr of the Beatles" },
+        { "thumb": "scrow20.JPG", "text": "Small Scarecrow on a window sill" },
+        {
+          "thumb": "scrows.jpg",
+          "text": "Staplehill Bill made for a Rural Museum in Wimborne Dorset"
+        }
+      ]
+    },
+    {
+      "title": "Various Workshops &amp; Events",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "s22.jpg",
+          "text": "Childern with the Prison warden from bread(TV series)"
+        },
+        { "thumb": "SCnrChurch.JPG", "text": "English Garden" },
+        {
+          "thumb": "scrow9.JPG",
+          "text": "Class of children making flowerpot scarecrows"
+        },
+        {
+          "thumb": "scrow22.JPG",
+          "text": "Children using there scarecrows in a puppet display"
+        },
+        {
+          "thumb": "scrow23.JPG",
+          "text": "Out door workshop at a country museum"
+        },
+        { "thumb": "scrow26.JPG", "text": "Out door workshop" },
+        {
+          "thumb": "s24.jpg",
+          "text": "A child involved in the making of a Flower pot scarecrow"
+        },
+        { "thumb": "scrow14.JPG", "text": "Child with Thomas Hardy Scarecrow" },
+        { "thumb": "scrow5.JPG", "text": "Workshop Kingston Maurward Dorset" }
+      ]
+    },
+
+    {
+      "title": "TODO Lookalike and Famous Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" }
+      ]
+    },
+    {
+      "title": "TODO An array of traditional Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" },
+        { "thumb": "", "text": "" }
+      ]
     }
-    ,
-    {
- "title": "The Four Season Scarecrows",
- "src": "Pictures/012005Pictures/",
- "images": [
-   { "thumb": "2005 scarecrows 001.jpg"},
-   { "thumb": "2005 scarecrows 002.jpg"},
-   { "thumb": "2005 scarecrows 015.jpg"},
-   { "thumb": "2005 scarecrows 004.jpg" },
-   { "thumb": "2005 scarecrows 005.jpg"},
-   { "thumb": "2005 scarecrows 006.jpg"},
-   { "thumb": "2005 scarecrows 008.jpg" }
-  
- ]    }
- ,
-    {
- "title": "Various Scarecrows",
- "src": "Pictures/",
- "images": [
-   { "thumb": "20041010510(6).JPG"},
-   { "thumb": "20041010510(1).jpg"},
-   { "thumb": "20041010510(2).jpg"},
-   { "thumb": "20041010510.JPG"},
-   { "thumb": "20041010510(4).JPG"},
-   { "thumb": "20041010510(5).JPG"},
-   { "thumb": "20041010510(7).JPG"},
-   { "thumb": "20041010510(3).jpg"}
- ]}
   ]
 }

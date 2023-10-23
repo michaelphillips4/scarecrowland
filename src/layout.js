@@ -1,4 +1,5 @@
 
+import Footer from './parts/Footer';
 import Header from './parts/Header';
 import { Outlet } from "react-router-dom";
 
@@ -8,6 +9,7 @@ const Layout = () => {
             <Header />
             <Outlet />
             <br />
+            <Footer />
             <p className="text-center">v2.0</p>
         </>
     )

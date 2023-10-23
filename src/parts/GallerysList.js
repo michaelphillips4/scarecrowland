@@ -15,39 +15,8 @@ function GalleryList() {
         }
 
     <hr />
+                     
       
-        <a href="gal15.html"> fall and christmas in the usa </a>
-        <a href="gal14.html"> various in the usa</a>
-        <a href="gal12.html">
-          christmas in the usa.
-        </a>
-        <a href="gal11.html">
-          work in the usa.
-        </a>
-        <a href="gal10.html">
-          workshops in the uk.
-        </a>
-        <a href="gal9.html">
-          a <b>scarecrow</b> for joe
-        </a>
-        <a href="gal8.html">
-          workshops in usa.
-        </a>
-        <a href="gal7.html">
-          advertising <b>scarecrows</b>
-        </a>
-        <a href="gal6.html">
-          celebrities and famous <b>scarecrows</b>
-        </a>
-        <a href="gal5.html">
-          traditional <b>scarecrows</b>
-        </a>
-        <a href="gal4.html">
-          various <b>scarecrows</b>
-        </a>
-        <a href="gal3.html">
-          various workshops &amp; events
-        </a>
         <a href="gal2.html">
           lookalike and famous <b>scarecrows</b>
         </a>

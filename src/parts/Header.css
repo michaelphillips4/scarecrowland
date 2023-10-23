@@ -1,8 +1,16 @@
 h1 {
-  text-shadow: 2px 2px 5px grey;
-}
+  text-shadow: 4px 4px 10px grey;
+  font-size:5vw;
+  
+;}
 
 
 .icon{
   vertical-align: middle;
+}
+
+@media screen and (max-width: 800px) {
+  h1 {
+    font-size: 12vw;
+  }
 }
