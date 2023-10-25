@@ -1,9 +1,9 @@
 import data from "../galleries-data.json";
 import "./Gallery.css"
 import { useParams } from "react-router-dom";
-import GalleryNavLinks from "./GalleryNavLinks";
 import { useState } from "react";
 import GalleryImage from "./GalleryImage";
+import GalleryNavLinks from "./GalleryNavLinks"; 
 import ROOT_PATH from "../globals";
 
 //preload images to speed up page load.

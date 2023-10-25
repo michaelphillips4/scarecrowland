@@ -1,4 +1,3 @@
-import './App.css';
 import Home from './parts/Home';
 import { Routes, Route, HashRouter} from "react-router-dom"; 
 import Gallery from './parts/Gallery';

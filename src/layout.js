@@ -1,4 +1,3 @@
-
 import Footer from './parts/Footer';
 import Header from './parts/Header';
 import { Outlet } from "react-router-dom";
@@ -16,4 +15,3 @@ const Layout = () => {
 };
 
 export default Layout;
-
