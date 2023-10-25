@@ -1,43 +1,1063 @@
 {
-   "Galleries":[{"title":"Green Man Regents Park London",
-             "src":"Pictures/gal47/",   
-             "images":[
-                {"thumb":"(small)DSC01148.JPG","main":"DSC01148.JPG","text":"Easter is Here "},
-                {"thumb":"(small)DSCF2356.JPG","main":"DSCF2356.JPG","text":"Survived winter snow wind rain even though now a little Brown"},
-                {"thumb":"(small)DSCF2358.JPG","main":"DSCF2358.JPG","text":"Enjoying a Sunny Day as autumn approaches"},
-                {"thumb":"(small)DSCF2355.JPG","main":"DSCF2355.JPG","text":"Getting ready for winter"},
-                {"thumb":"(small)DSCF2346.JPG","main":"DSCF2346.JPG","text":""},
-                {"thumb":"(small)DSCF2347.JPG","main":"DSCF2347.JPG","text":""},
-                {"thumb":"(small)DSCF2350.JPG","main":"DSCF2350.JPG","text":""},
-                {"thumb":"(small)DSCF2344.JPG","main":"DSCF2344.JPG","text":""},
-                {"thumb":"(small)DSC01133.JPG","main":"DSC01133.JPG","text":""},
-                {"thumb":"(small)DSC01139.JPG","main":"DSC01139.JPG","text":""},
-                {"thumb":"(small)DSCF2364.JPG","main":"DSCF2364.JPG","text":""},
-                {"thumb":"(small)DSCF2368.JPG","main":"DSCF2368.JPG","text":""}
-             ]}
-            
-            ]
+  "Scarecrows": [
+    {
+      "title": "Green Man Regents Park London",
+      "src": "Pictures/gal47/",
+      "images": [
+        {
+          "thumb": "(small)DSC01148.JPG",
+          "main": "DSC01148.JPG",
+          "text": "Easter is Here "
+        },
+        {
+          "thumb": "(small)DSCF2356.JPG",
+          "main": "DSCF2356.JPG",
+          "text": "Survived winter snow wind rain even though now a little Brown"
+        },
+        {
+          "thumb": "(small)DSCF2358.JPG",
+          "main": "DSCF2358.JPG",
+          "text": "Enjoying a Sunny Day as autumn approaches"
+        },
+        {
+          "thumb": "(small)DSCF2355.JPG",
+          "main": "DSCF2355.JPG",
+          "text": "Getting ready for winter"
+        },
+        { "thumb": "(small)DSCF2346.JPG", "main": "DSCF2346.JPG", "text": "" },
+        { "thumb": "(small)DSCF2347.JPG", "main": "DSCF2347.JPG", "text": "" },
+        { "thumb": "(small)DSCF2350.JPG", "main": "DSCF2350.JPG", "text": "" },
+        { "thumb": "(small)DSCF2344.JPG", "main": "DSCF2344.JPG", "text": "" },
+        { "thumb": "(small)DSC01133.JPG", "main": "DSC01133.JPG", "text": "" },
+        { "thumb": "(small)DSC01139.JPG", "main": "DSC01139.JPG", "text": "" },
+        { "thumb": "(small)DSCF2364.JPG", "main": "DSCF2364.JPG", "text": "" },
+        { "thumb": "(small)DSCF2368.JPG", "main": "DSCF2368.JPG", "text": "" }
+      ]
+    },
+    {
+      "title": "March Scarecrow",
+      "src": "Pictures/gal46/",
+      "images": [
+        {
+          "thumb": "1.jpg",
+          "main": "1.jpg",
+          "text": "Heres looking at you kid."
+        }
+      ]
+    },
+    {
+      "title": "Harvest festival Green Man",
+      "text": "The Green Man - For Capital Growth in partnership with Regents Park allotments (Harvest festival)",
+      "src": "Pictures/gal45/",
+      "images": [
+        {
+          "thumb": "(small)1.jpg",
+          "main": "1.jpg",
+          "text": "Making the Green Man."
+        },
+        { "thumb": "(small)2.jpg", "main": "2.jpg", "text": "" },
+        { "thumb": "(small)3.jpg", "main": "3.jpg", "text": "" },
+        { "thumb": "(small)4.jpg", "main": "4.jpg", "text": "" },
+        { "thumb": "(small)5.jpg", "main": "5.jpg", "text": "" },
+        { "thumb": "(small)6.jpg", "main": "6.jpg", "text": "" }
+      ]
+    },
+    {
+      "title": "Olympic Team UK",
+      "src": "Pictures/gal43/",
+      "images": [
+        {
+          "thumb": "1.jpg",
+          "main": "1.jpg"
+        },
+        {
+          "thumb": "2.jpg",
+          "main": "2.jpg"
+        },
+        {
+          "thumb": "3.jpg",
+          "main": "3.jpg"
+        },
+        {
+          "thumb": "4.jpg",
+          "main": "4.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Various Scarecrows 2011/2012",
+      "src": "Pictures/gal44/",
+      "images": [
+        {
+          "thumb": "(small)4.jpg",
+          "main": "4.jpg"
+        },
+        {
+          "thumb": "(small)5.jpg",
+          "main": "5.jpg"
+        },
+        {
+          "thumb": "(small)1.jpg",
+          "main": "1.jpg"
+        },
+        {
+          "thumb": "(small)2.jpg",
+          "main": "2.jpg"
+        },
+        {
+          "thumb": "(small)3.jpg",
+          "main": "3.jpg"
+        }
+      ]
+    },
 
+    {
+      "title": "New Work 2011",
+      "src": "Pictures/gal42/images/",
+      "images": [
+        { "thumb": "sc (107).JPG" },
+        { "thumb": "sc (126).JPG" },
+        { "thumb": "sc (118).JPG" },
+        { "thumb": "sc (110).JPG" },
+        { "thumb": "sc (111).JPG" },
+        { "thumb": "sc (113).JPG" },
+        { "thumb": "sc (114).JPG" },
+        { "thumb": "sc (120).JPG" },
+        { "thumb": "sc (123).JPG" },
+        { "thumb": "sc (119).JPG" }
+      ]
+    },
+    {
+      "title": "Autumn in Brighton",
+      "src": "Pictures/gal41/",
+      "images": [
+        { "thumb": "DSCF5156.JPG red(small).JPG", "main": "DSCF5156.JPG" },
+        { "thumb": "DSCF5160.JPG red(small).JPG", "main": "DSCF5160.JPG" },
+        { "thumb": "DSCF5168.JPG red(small).JPG", "main": "DSCF5168.JPG" },
+        { "thumb": "DSCF5169.JPG red(small).JPG", "main": "DSCF5169.JPG" },
+        { "thumb": "DSCF5171.JPG red(small).JPG", "main": "DSCF5171.JPG" },
+        { "thumb": "DSCF5172.JPG red(small).JPG", "main": "DSCF5172.JPG" },
+        { "thumb": "DSCF5154.JPG red(small).JPG", "main": "DSCF5154.JPG" },
+        { "thumb": "DSCF5170.JPG red 2(small).JPG", "main": "DSCF5170.JPG" }
+      ]
+    },
+    {
+      "title": "Summer Scarecrows",
+      "src": "Pictures/gal40/",
+      "images": [
+        { "thumb": "23.jpg", "text": "A long way from Bollywood" },
+        {
+          "thumb": "Joyce%20ymca%20and%20scarecrow%20John%20045.jpg",
+          "text": "YMCA Summer Camp"
+        }
+      ]
+    },
+    {
+      "title": "Flowerpot Scarecrows",
+      "src": "Pictures/Gal39/",
+      "images": [
+        { "thumb": "DSCF4266 2(small).JPG" },
+        { "thumb": "DSCF4269(small).JPG" },
+        { "thumb": "DSCF4270 2(small).JPG" },
+        { "thumb": "DSCF4271 2(small).JPG" },
+        { "thumb": "DSCF4274 2(small).JPG" },
+        { "thumb": "DSCF4275 2(small).JPG" }
+      ]
+    },
+    {
+      "title": "Harry found a new home in Kent",
+      "src": "Pictures/gal38/",
+      "images": [
+        {
+          "thumb": "s1.jpg",
+          "main": "1.JPG",
+          "text": "Harry arrives."
+        },
+        {
+          "thumb": "s2.jpg",
+          "main": "2.JPG",
+          "text": "Harry takes over from existing Scarecrow who had done a good innings. "
+        },
+        {
+          "thumb": "s4.jpg",
+          "main": "4.JPG",
+          "text": "Harry watches over his new domain. "
+        },
+        { "thumb": "s3.jpg", "main": "3.JPG", "text": "" }
+      ]
+    },
+    {
+      "title": "Various Scarecrows",
+      "src": "Pictures/gal37/",
+      "images": [
+        { "thumb": "8(small).jpg", "main": "8.JPG", "text": "Indiana Jones " },
+        {
+          "thumb": "2(small).jpg",
+          "main": "2.JPG",
+          "text": "Joyce with Steve Irvin"
+        },
+        {
+          "thumb": "SI(small).jpg",
+          "main": "SI.JPG",
+          "text": "A tribute to Steve Irvin done in Montecito YMCA."
+        },
+        { "thumb": "7(small).jpg", "main": "7.JPG" },
+
+        {
+          "thumb": "6(small).jpg",
+          "main": "6.JPG",
+          "text": "Steve Irvin with a lizard and a croc."
+        },
+        {
+          "thumb": "Ij(small).jpg",
+          "main": "Ij.JPG",
+          "text": "Indiana Jones in California looking for that pot of gold."
+        }
+      ]
+    },
+    {
+      "title": "Celebrity Scarecrows",
+      "src": "Pictures/gal36/",
+      "text": "Scarecrows made for Seeds of Changes new products launch",
+      "images": [
+        {
+          "thumb": "Wayne Rooney 5(Small).jpg",
+          "main": "Wayne Rooney 5.jpg",
+          "text": "Wayne Rooney"
+        },
+        {
+          "thumb": "Amy Winehouse 8(Small).jpg",
+          "main": "Amy Winehouse 8.jpg",
+          "text": "Amy Winehouse"
+        },
+        {
+          "thumb": "Boris Johnson 4(Small).jpg",
+          "main": "Boris Johnson 4.jpg",
+          "text": "Boris Johnson"
+        },
+        {
+          "thumb": "Raymond, Kim and Scarecrows(Small).jpg",
+          "main": "Raymond, Kim and Scarecrows.jpg",
+          "text": "Raymond Blance, Kim Wilde and Scarecrows"
+        },
+        {
+          "thumb": "Kim Wilde with scarecrows group 3(Small).jpg",
+          "main": "Kim Wilde with scarecrows group 3(Small).jpg",
+          "text": "Kim Wilde with scarecrows group. "
+        },
+        {
+          "thumb": "DIG YOUR DINNER scarecrows(Small).jpg",
+          "main": "DIG YOUR DINNER scarecrows.jpg",
+          "text": "DIG YOUR DINNER scarecrows"
+        }
+      ]
+    },
+    {
+      "title": "Scarecrows in the USA",
+      "src": "Pictures/gal35/",
+      "images": [
+        {
+          "thumb": "10 (Small).jpg",
+          "main": "10 (Large).jpg",
+          "text": ""
+        },
+        {
+          "thumb": "2 (Small).jpg",
+          "main": "2 (Large).jpg",
+          "text": ""
+        },
+        {
+          "thumb": "3 (Small).jpg",
+          "main": "3 (Large).jpg",
+          "text": ""
+        },
+        {
+          "thumb": "4 (Small).jpg",
+          "main": "4 (Large).jpg",
+          "text": ""
+        },
+        {
+          "thumb": "5 (Small).jpg",
+          "main": "5 (Large).jpg",
+          "text": ""
+        },
+        {
+          "thumb": "6 (Small).jpg",
+          "main": "6 (Large).jpg",
+          "text": ""
+        },
+        {
+          "thumb": "7 (Small).jpg",
+          "main": "7 (Large).jpg",
+          "text": ""
+        },
+        {
+          "thumb": "8 (Small).jpg",
+          "main": "8 (Large).jpg",
+          "text": ""
+        },
+        {
+          "thumb": "9 (Small).jpg",
+          "main": "9 (Large).jpg",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "title": "Fred In The USA",
+      "src": "Pictures/gal34/",
+      "images": [
+        {
+          "thumb": "0145728-R1-022-9A (Small).jpg",
+          "main": "0145728-R1-022-9A (Large).jpg"
+        },
+        { "thumb": "_MG_1991 (Small).JPG", "main": "_MG_1991 (Large).JPG" },
+        { "thumb": "IMG_1856 (Small).JPG", "main": "IMG_1856 (Large).JPG" },
+        { "thumb": "IMG_1868 (Small).JPG", "main": "IMG_1868 (Large).JPG" },
+        { "thumb": "IMG_1976 (Small).JPG", "main": "IMG_1976 (Large).JPG" },
+        { "thumb": "P1020608 (Small).JPG", "main": "P1020608 (Large).JPG" },
+        { "thumb": "IMG_1849 (Small).JPG", "main": "IMG_1849 (Large).JPG" },
+        { "thumb": "IMG_1905 (Small).JPG", "main": "IMG_1905 (Large).JPG" },
+        { "thumb": "_MG_1993 (Small).JPG", "main": "_MG_1993 (Large).JPG" }
+      ]
+    },
+    {
+      "title": "Workshops around Sussex",
+      "src": "Pictures/gal33/",
+      "images": [
+        { "thumb": "phone pics 2007 096 (Small).jpg" },
+        { "thumb": "phone pics 2007 097 (Small).jpg" },
+        { "thumb": "phone pics 2007 098 (Small).jpg" },
+        { "thumb": "phone pics 2007 113 (Small).jpg" },
+        { "thumb": "phone pics 2007 121 (Small).jpg" },
+        { "thumb": "phone pics 2007 137 (Small).jpg" },
+        { "thumb": "phone pics 2007 138 (Small).jpg" },
+        { "thumb": "phone pics 2007 139 (Small).jpg" }
+      ]
+    },
+    {
+      "title": "Scarecrows in actions",
+      "src": "Pictures/gal32/",
+      "images": [
+        { "thumb": "phone pics 2007 110 (Small).jpg" },
+        { "thumb": "phone pics 2007 111 (Small).jpg" },
+        { "thumb": "phone pics 2007 114 (Small).jpg" },
+        { "thumb": "phone pics 2007 115 (Small).jpg" },
+        { "thumb": "phone pics 2007 116 (Small).jpg" }
+      ]
+    },
+    {
+      "title": "Goldys",
+      "src": "Pictures/gal31/",
+      "images": [
+        {
+          "thumb": "00.JPG",
+          "text": "Just arrived at Goldys on my Broomstick !!"
+        },
+        { "thumb": "01.JPG", "text": "Nephew Harry in Farm Shop." },
+        { "thumb": "02.JPG", "text": "Piano Player - Rocket Man" },
+        { "thumb": "03.JPG", "text": "" },
+        { "thumb": "04.JPG", "text": "Jeeves ,the Butler at the barbers" },
+        { "thumb": "05.JPG", "text": "Judging Scarecrow Competition" },
+        { "thumb": "06.JPG", "text": "Piano Player Rocket Man" },
+        { "thumb": "07.JPG", "text": "Jeeves on Duty next to wine of course" },
+        { "thumb": "08.JPG", "text": "" },
+        { "thumb": "09.JPG", "text": "" },
+        { "thumb": "10.JPG", "text": "" },
+        {
+          "thumb": "11.JPG",
+          "text": "Proud owners of their Scarecrows with Farmer Gold"
+        },
+        { "thumb": "12.JPG", "text": "" },
+        { "thumb": "DSC00302.JPG", "text": "Proud owners of their Scarecrows" },
+        { "thumb": "DSC00268.JPG", "text": "" },
+        { "thumb": "DSC00269.JPG", "text": "" },
+        { "thumb": "DSC00270.JPG", "text": "Proud owners of their Scarecrows" },
+        {
+          "thumb": "DSC00272.JPG",
+          "text": "Making Scarecrows. This is Hard Work !!"
+        },
+        { "thumb": "DSC00273.JPG", "text": "Proud owners of their Scarecrows" },
+        { "thumb": "DSC00278.JPG", "text": "Proud owners of their Scarecrows" },
+        { "thumb": "DSC00287.JPG", "text": "" },
+        { "thumb": "DSC00288.JPG", "text": "" },
+        { "thumb": "DSC00289.JPG", "text": "" },
+        { "thumb": "DSC00300.JPG", "text": "Judging Scarecrow Competition" },
+        { "thumb": "DSC00302.JPG", "text": "Proud owners of their Scarecrows" }
+      ]
+    },
+    {
+      "title": "Various scarecrows in summer 2007",
+      "src": "Pictures/gal30/",
+      "images": [
+        { "thumb": "twashington5.jpg", "text": "Way out West Scarecrows" },
+        {
+          "thumb": "tbeppe2.jpg",
+          "text": "Beppe having had one too many in the vineyard."
+        },
+        {
+          "thumb": "tMrs-HubbleBubble.jpg",
+          "text": "Mrs-HubbleBubble and her partner or is it Uncle Sam celebrating July the 4th"
+        },
+        { "thumb": "twashington1.jpg", "text": "" },
+        { "thumb": "twashington2.jpg", "text": "" },
+        {
+          "thumb": "twashington3.jpg",
+          "text": "Just to prove young and old like making scarecrows."
+        },
+        { "thumb": "twashington4.jpg", "text": "" },
+        { "thumb": "tbeppe1.jpg", "text": "" }
+      ]
+    },
+    {
+      "title": "Creating atma ",
+      "text": "Other pictures of the making of atma from waywebby",
+      "src": "Pictures/gal29/",
+      "images": [
+        { "thumb": "tIMG_0959.jpg", "text": "" },
+        { "thumb": "tIMG_0962.jpg", "text": "" },
+        { "thumb": "tIMG_0965.jpg", "text": "" },
+        { "thumb": "tIMG_0961.jpg", "text": "" }
+      ]
+    },
+    {
+      "title": "Summer solstice ventura California ",
+      "src": "Pictures/gal28/",
+      "images": [
+        { "thumb": "t5140580-R1-002-00A.jpg" },
+        { "thumb": "t5140580-R1-004-0A.jpg" },
+        { "thumb": "t5140580-R1-010-3A.jpg" },
+        { "thumb": "t5140580-R1-008-2A.jpg" },
+        { "thumb": "t5140580-R1-014-5A.jpg" },
+        { "thumb": "t5140580-R1-020-8A.jpg" },
+        { "thumb": "t5140580-R1-022-9A.jpg" },
+        { "thumb": "t5140580-R1-024-10A.jpg" },
+        { "thumb": "t5140580-R1-032-14A.jpg" },
+        { "thumb": "t5140580-R1-028-12A.jpg" },
+        { "thumb": "t5140580-R1-034-15A.jpg" },
+        { "thumb": "t5140580-R1-042-19A.jpg" }
+      ]
+    },
+    {
+      "title": "Fiesta (Montecito) YMCA",
+      "src": "Pictures/gal27/",
+      "images": [
+        { "thumb": "t0702778-R1-020-8A.jpg" },
+        { "thumb": "t0702778-R1-022-9A.jpg" },
+        { "thumb": "t0702778-R1-032-14A.jpg" },
+        { "thumb": "t0702778-R1-050-23A.jpg" },
+        { "thumb": "t0702778-R1-036-16A.jpg" },
+        { "thumb": "t0702778-R1-040-18A.jpg" },
+        { "thumb": "t0702778-R1-044-20A.jpg" },
+        { "thumb": "t0702778-R1-048-22A.jpg" },
+        { "thumb": "t0702778-R1-034-15A.jpg" }
+      ]
+    },
+    {
+      "title": "Pasadena Summer Workshop",
+      "src": "Pictures/gal26/",
+      "images": [
+        { "thumb": "t0717509-r1-022-9a.jpg" },
+        { "thumb": "t0717509-r1-024-10a.jpg" },
+        { "thumb": "t0717509-r1-052-24a.jpg" },
+        { "thumb": "t0717509-r1-030-13a.jpg" },
+        { "thumb": "t0717509-r1-040-18a.jpg" },
+        { "thumb": "t0717509-r1-042-19a.jpg" },
+        { "thumb": "t0717509-r1-044-20a.jpg" },
+        { "thumb": "t0717509-r1-046-21a.jpg" },
+        { "thumb": "t0717509-r1-048-22a.jpg" }
+      ]
+    },
+    {
+      "title": "Memorial may weekend",
+      "src": "Pictures/062005/",
+      "images": [
+        { "thumb": "fjoyces scarecrows-memorial day 3 002.jpg" },
+        { "thumb": "fjoyces scarecrows-memorial day 3 003.jpg" },
+        { "thumb": "f007_21.JPG" }
+      ]
+    },
+    {
+      "title": "Montecito pre School Workshop",
+      "src": "Pictures/062005/",
+      "images": [
+        { "thumb": "fp4.jpg" },
+        { "thumb": "fp5.jpg" },
+        { "thumb": "fp3.jpg" },
+        { "thumb": "fp1.jpg" },
+        { "thumb": "fp2.jpg" },
+        { "thumb": "fp6.jpg" }
+      ]
+    },
+    {
+      "title": "Montecito Family YMCA",
+      "src": "Pictures/062005/",
+      "images": [
+        { "thumb": "4.jpg" },
+        { "thumb": "5.jpg" },
+        { "thumb": "3.jpg" },
+        { "thumb": "1.JPG" },
+        { "thumb": "2.jpg" },
+        { "thumb": "6.JPG" },
+        { "thumb": "7.JPG" },
+        { "thumb": "8.JPG" },
+        { "thumb": "9.JPG" }
+      ]
+    },
+    {
+      "title": "More Workshops at Hollister School",
+      "src": "Pictures/012005Pictures/",
+      "images": [
+        { "thumb": "005_21A.JPG" },
+        { "thumb": "002_24A.JPG" },
+        { "thumb": "003_23A.JPG" },
+        { "thumb": "016_10A.JPG" },
+        { "thumb": "017_9A.JPG" },
+        { "thumb": "023_3A.JPG" },
+        { "thumb": "007_19A.JPG" },
+        { "thumb": "008_18A.JPG" },
+        { "thumb": "009_17A.JPG" },
+        { "thumb": "019_7A.JPG" },
+        { "thumb": "011_15A.JPG" },
+        { "thumb": "012_14A.JPG" },
+        { "thumb": "013_13A.JPG" },
+        { "thumb": "014_12A.JPG" },
+        { "thumb": "015_11A.JPG" },
+        { "thumb": "004_22A.JPG" },
+        { "thumb": "027_00A.JPG" },
+        { "thumb": "006_20A.JPG" },
+        { "thumb": "010_16A.JPG" },
+        { "thumb": "020_6A.JPG" },
+        { "thumb": "021_5A.JPG" },
+        { "thumb": "022_4A.JPG" },
+        { "thumb": "018_8A.JPG" },
+        { "thumb": "024_2A.JPG" },
+        { "thumb": "025_1A.JPG" },
+        { "thumb": "026_0A.JPG" }
+      ]
+    },
+    {
+      "title": "Workshop at Hollister School",
+      "src": "Pictures/012005Pictures/",
+      "images": [
+        { "thumb": "102-0272.jpg" },
+        { "thumb": "102_0273.jpg" },
+        { "thumb": "102_0277.jpg" },
+        { "thumb": "114_1413.jpg" },
+        { "thumb": "114_1414.jpg" },
+        { "thumb": "114_1417.jpg" },
+        { "thumb": "114_1403.jpg" },
+        { "thumb": "114_1404.jpg" }
+      ]
+    },
+    {
+      "title": "The Four Season Scarecrows",
+      "src": "Pictures/012005Pictures/",
+      "images": [
+        { "thumb": "2005 scarecrows 001.jpg" },
+        { "thumb": "2005 scarecrows 002.jpg" },
+        { "thumb": "2005 scarecrows 015.jpg" },
+        { "thumb": "2005 scarecrows 004.jpg" },
+        { "thumb": "2005 scarecrows 005.jpg" },
+        { "thumb": "2005 scarecrows 006.jpg" },
+        { "thumb": "2005 scarecrows 008.jpg" }
+      ]
+    },
+    {
+      "title": "Various Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        { "thumb": "20041010510(6).JPG" },
+        { "thumb": "20041010510(1).jpg" },
+        { "thumb": "20041010510(2).jpg" },
+        { "thumb": "20041010510.JPG" },
+        { "thumb": "20041010510(4).JPG" },
+        { "thumb": "20041010510(5).JPG" },
+        { "thumb": "20041010510(7).JPG" },
+        { "thumb": "20041010510(3).jpg" }
+      ]
+    },
+    {
+      "title": "Fall and Christmas in the USA",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "santa1.jpg",
+          "text": "Santa Claus arriving down a chimney in Santa Barbara Ho ! Ho !"
+        },
+        { "thumb": "santa2s.jpg", "text": "Joyce with Santa Claus" },
+        { "thumb": "santa3s.jpg", "text": "Santa" },
+        { "thumb": "fall1s.jpg", "text": "Sir Archibald Smyth with Nicky " },
+        {
+          "thumb": "fall2s.jpg",
+          "text": "Joyce Penny and Archibald in the garden "
+        },
+        { "thumb": "fall3s.jpg", "text": "" },
+        { "thumb": "fall4s.jpg", "text": "Mr Vegas" },
+        {
+          "thumb": "fall5s.jpg",
+          "text": "Mr Vegas before he loses his shirt "
+        },
+        { "thumb": "fall6s.jpg", "text": "" }
+      ]
+    },
+    {
+      "title": "Various USA",
+      "src": "Pictures/",
+      "images": [
+        { "thumb": "rodeoman010.jpg", "text": "Rodeo Man in Carpinteria" },
+        { "thumb": "rodeoman012.jpg", "text": "Rodeo Man with Joyce" },
+        {
+          "thumb": "rodeoman014.jpg",
+          "text": "A horse getting to know Rodeo Man"
+        },
+        {
+          "thumb": "americanman1.jpg",
+          "text": "American Man with the American Flag "
+        },
+        { "thumb": "americanman2.jpg", "text": "Joyce and American Man." },
+        {
+          "thumb": "americanman3.jpg",
+          "text": "American Man later to be named Sam by the children Of 'San Ramon' Crow Canyon institute."
+        },
+        {
+          "thumb": "200310scarecrow002.jpg",
+          "text": "Pumpkin Man in Dan and Penny's Orchard in California"
+        },
+        { "thumb": "200310scarecrow003.jpg", "text": "Pumpkin Man" },
+        {
+          "thumb": "200310scarecrow004.jpg",
+          "text": "Pumpkin man in the orchard with the avocado trees"
+        }
+      ]
+    },
+    {
+      "title": "Christmas in the USA.",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "gal129.jpg",
+          "text": "A US News paper article on Joyce's work"
+        },
+
+        {
+          "thumb": "gal122.jpg",
+          "text": "A Tree Scarecrow amongst the oranges Summerland California USA January 2003"
+        },
+        {
+          "thumb": "gal123.jpg",
+          "text": "Mini Scarecrow Xmas 2002 Carpinteria California USA"
+        },
+        {
+          "thumb": "gal124.jpg",
+          "text": "Santa in Making Studio commissioned by a Californian Journal "
+        },
+        {
+          "thumb": "gal125.jpg",
+          "text": "Santa Claus Leaving Santa Clause Land Christmas Eve 2002."
+        },
+        {
+          "thumb": "gal121.jpg",
+          "text": "RoLuck James Bond with Martini Carpinteria California Drinking in the New Year 2003 ( foot hills in background )"
+        },
+        {
+          "thumb": "gal126.jpg",
+          "text": "Santa En Route to find his Sleigh and Reindeer"
+        },
+        {
+          "thumb": "gal128.jpg",
+          "text": "Orick Beautification Project's Scarecrow workshop"
+        },
+        { "thumb": "gal127.jpg", "text": "News paper article in Orick USA" }
+      ]
+    },
+    {
+      "title": "Work in the  USA",
+      "src": "Pictures/",
+      "images": [
+        { "thumb": "gal111.jpg", "text": "Reindeer looking for Santa ! " },
+
+        {
+          "thumb": "gal112.jpg",
+          "text": "Carol starts the Orick Scarecrow family"
+        },
+        {
+          "thumb": "gal113.jpg",
+          "text": "Scarecrow Home in Orick/Eureka California"
+        },
+        {
+          "thumb": "gal114.jpg",
+          "text": "Joyce with Scarecrow family Orick/Eureka California October 2002"
+        },
+
+        {
+          "thumb": "gal116.jpg",
+          "text": "Scarecrows under construction with Gwen Orick/Eureka California"
+        },
+        {
+          "thumb": "gal115.jpg",
+          "text": "Scarecrow family Orick/Eureka California October 2002"
+        },
+
+        { "thumb": "gal118.jpg", "text": "Big Dan after a year in sunshine " },
+        {
+          "thumb": "gal117.jpg",
+          "text": "USA 2002 (James bond in the making)"
+        },
+        {
+          "thumb": "gal119.jpg",
+          "text": "Penny getting her dream !!! Dressing James Bond Dec 2002"
+        }
+      ]
+    },
+    {
+      "title": "Workshops in the UK.",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "scare101.jpg",
+          "text": "Harry Potter With Inventor Groombridge Kent"
+        },
+        {
+          "thumb": "scare102.jpg",
+          "text": "Queuing up to make Flower Pot Scarecrows"
+        },
+        { "thumb": "scare103.jpg", "text": "Confusion !!" },
+        { "thumb": "scare104.jpg", "text": "Its Okay Now All Peaceful" },
+        { "thumb": "scare105.jpg", "text": "Busy Busy" },
+        { "thumb": "scare106.jpg", "text": "Nearly There !!" },
+        { "thumb": "scare107.jpg", "text": "Completed by the twins" },
+        { "thumb": "scare108.jpg", "text": "Jill looks on left of picture " },
+        { "thumb": "scare109.jpg", "text": "Megan A living Scarecrow" }
+      ]
+    },
+    {
+      "title": "Scarecrow for Joe.",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "scare91.JPG",
+          "text": "Lookalike scarecrow made for Joe as surprise birthday gift"
+        },
+        { "thumb": "scare95.JPG", "text": "The unveiling of Joe" },
+        {
+          "thumb": "scare94.JPG",
+          "text": "The Two Joes come to terms with one another"
+        },
+        { "thumb": "scare96.JPG", "text": "Is it right can we see two Joes ?" },
+        {
+          "thumb": "scare97.JPG",
+          "text": "Barbara and Anthony talking with Joe being filmed in the background"
+        },
+        { "thumb": "scare93.JPG", "text": "Fanfare for Joe the Scarecrow" },
+        {
+          "thumb": "scare92.JPG",
+          "text": "Abigail and Ethan under construction "
+        },
+        {
+          "thumb": "scare98.JPG",
+          "text": "Abigail and Ethan looking forward to their flight to Ureka California"
+        }
+      ]
+    },
+    {
+      "title": "Workshops in USA.",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "8crow3.JPG",
+          "text": "Flower pot scarecrows made at the Rancho Santa Fe Community Center"
+        },
+        {
+          "thumb": "8crow6.JPG",
+          "text": "George for Timothy Buynay Attorney Santa Barbara USA"
+        },
+        {
+          "thumb": "8crow4.JPG",
+          "text": "Flower pot scarecrows made at the Rancho Santa Fe Community Center."
+        },
+        {
+          "thumb": "8crow5.JPG",
+          "text": "A Scarecrow enjoying the Californian sunshine made at the Rancho Santa Fe Garden Club"
+        },
+        {
+          "thumb": "8crow2.JPG",
+          "text": "Rancho Santa Fe Garden Club ' Its a grand Life ! '"
+        },
+        { "thumb": "8crow9.JPG", "text": "How laid Back can a scarecrow be" },
+        { "thumb": "8crow7.JPG", "text": "Big Dan Carpinteria California USA" },
+        {
+          "thumb": "8crow1.JPG",
+          "text": "Rancho Santa Fe Garden Club Oct 2001 How to travel if your a scarecrow"
+        },
+        { "thumb": "8crow8.JPG", "text": "AToo much sunshine" }
+      ]
+    },
+    {
+      "title": "Advertising Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "organic1.jpg",
+          "text": "2 Naked Scarecrows at Sheepdrove Farm in Lambourn Berkshire UK"
+        },
+        {
+          "thumb": "organic2.jpg",
+          "text": "Anne Widdecombe made for 'The Enjoy Organic Company'"
+        },
+        {
+          "thumb": "organic4.jpg",
+          "text": "2 Naked Scarecrows with advertising Banner"
+        },
+        {
+          "thumb": "organic3.jpg",
+          "text": "The two naked scarecrows also featured in the business section of the times Aug 2001"
+        },
+        {
+          "thumb": "Anne2.jpg",
+          "text": "Anne Widdecombe perusing british country side"
+        },
+        {
+          "thumb": "allotment.JPG",
+          "text": "Dear Joyce,I thought you would like to have this photograph of Fred I have taken. This is to show you what a scarecrow looks like after 4 1/2 years - he has been in the garden through sun, wind, rain and snow !! And he really does keep the birds off the vegetables. Judy & Peter"
+        }
+      ]
+    },
+    {
+      "title": "Celebrities and Famous Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "s12.jpg",
+          "text": "Ringo Starr made for a US record company"
+        },
+
+        { "thumb": "s16.jpg", "text": "Thomas Hardy & John Peel" },
+        { "thumb": "s18.jpg", "text": "Charlie Chaplin" },
+        { "thumb": "s11.jpg", "text": "Charles Dickens with friends" },
+        { "thumb": "s14.jpg", "text": "The Queen Mum" },
+        {
+          "thumb": "s20.jpg",
+          "text": "Charles II for the English Heritage at Boscabel House"
+        },
+        { "thumb": "s7.jpg", "text": "TMary Poppins" },
+        { "thumb": "s8.jpg", "text": "Dane Edna Everage" },
+        { "thumb": "s11a.jpg", "text": "Peach Blossom" }
+      ]
+    },
+    {
+      "title": "Traditional Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "s3.jpg",
+          "text": "Golfer made for the West Surrey Golf Course"
+        },
+
+        {
+          "thumb": "s4.jpg",
+          "text": "Amos made for the Hampton Court Flower Show, Council Rural Protection England (CRPE)"
+        },
+        {
+          "thumb": "s10.jpg",
+          "text": "A Pearly King Scarecrow who accompanied Joyce to a British Broadcasting (BBC Radio) show "
+        },
+        {
+          "thumb": "s21.jpg",
+          "text": "ScotsMan (Tattie Bogie) and his friend"
+        },
+        { "thumb": "s27.jpg", "text": "Violet Elizabeth" },
+        { "thumb": "s15.jpg", "text": "Colourful scarecrow" },
+        { "thumb": "s9.jpg", "text": "Victorian window scarecrows" },
+        {
+          "thumb": "s19.jpg",
+          "text": "Theo a teacher with Duke Of Monmouth Scarecrow"
+        },
+        {
+          "thumb": "s29.jpg",
+          "text": "The Three Scarecrows after a Night on The Tiles"
+        }
+      ]
+    },
+    {
+      "title": "Various Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        { "thumb": "Judge.JPG", "text": "Barrister" },
+
+        {
+          "thumb": "littledoll.JPG",
+          "text": "Display scarecrow for a shop in Devon"
+        },
+        { "thumb": "momets.jpg", "text": "Trio of traditional scarecrows" },
+        {
+          "thumb": "scrow28.JPG",
+          "text": "Tin Man from the Film Wizard of Oz"
+        },
+        { "thumb": "santa1.jpg", "text": "Santa" },
+        {
+          "thumb": "scrow18.JPG",
+          "text": "2 Clown scarecrows made to raise funds for children in need charity"
+        },
+        { "thumb": "scrow11.JPG", "text": "Ringo Starr of the Beatles" },
+        { "thumb": "scrow20.JPG", "text": "Small Scarecrow on a window sill" },
+        {
+          "thumb": "scrows.jpg",
+          "text": "Staplehill Bill made for a Rural Museum in Wimborne Dorset"
+        }
+      ]
+    },
+    {
+      "title": "Various Workshops &amp; Events",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "s22.jpg",
+          "text": "Childern with the Prison warden from bread(TV series)"
+        },
+        { "thumb": "SCnrChurch.JPG", "text": "English Garden" },
+        {
+          "thumb": "scrow9.JPG",
+          "text": "Class of children making flowerpot scarecrows"
+        },
+        {
+          "thumb": "scrow22.JPG",
+          "text": "Children using there scarecrows in a puppet display"
+        },
+        {
+          "thumb": "scrow23.JPG",
+          "text": "Out door workshop at a country museum"
+        },
+        { "thumb": "scrow26.JPG", "text": "Out door workshop" },
+        {
+          "thumb": "s24.jpg",
+          "text": "A child involved in the making of a Flower pot scarecrow"
+        },
+        { "thumb": "scrow14.JPG", "text": "Child with Thomas Hardy Scarecrow" },
+        { "thumb": "scrow5.JPG", "text": "Workshop Kingston Maurward Dorset" }
+      ]
+    },
+
+    {
+      "title": "Lookalike and Famous Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        { "thumb": "scrow6.JPG", "text": "Freddie Mercury" },
+        {
+          "thumb": "scrow7.JPG",
+          "text": "Freddie as shown on TV (Big Breakfast)"
+        },
+        {
+          "thumb": "CharlesCamilla.JPG",
+          "text": "Prince Charles and Camilla Parker Bowles"
+        },
+
+        { "thumb": "Family.JPG", "text": "David Hockney" },
+        { "thumb": "jamesbond.jpg", "text": "James Bond" },
+        {
+          "thumb": "JCraven.JPG",
+          "text": "John Craven TV Presenter with Scarecrow still in creation"
+        },
+
+        { "thumb": "scrow15.JPG", "text": "Lord Blyth Chairman Of Boots" },
+        { "thumb": "scrow27.JPG", "text": "Charlie Chaplin" },
+        { "thumb": "sc01.jpg", "text": "John Craven The final Scarecrow" }
+      ]
+    },
+    {
+      "title": "Array of Traditional Scarecrows",
+      "src": "Pictures/",
+      "images": [
+        {
+          "thumb": "scrow19.JPG",
+          "text": "Traditional Scarecrow in a vegtable garden"
+        },
+        { "thumb": "Clown.JPG", "text": "Clown Scarecrow in a Basket" },
+        { "thumb": "GatePost.JPG", "text": "Small Scarecrow on a gate post" },
+        { "thumb": "scrowp.jpg", "text": "Ballerina in woodland" },
+        { "thumb": "Wurzle.JPG", "text": "Wurzil" },
+        {
+          "thumb": "scrow12.JPG",
+          "text": "Albert with a mouse on his shoulder"
+        },
+        { "thumb": "scrow1.JPG", "text": "Clown Scarecrow" },
+        { "thumb": "scrow10.JPG", "text": "Flying Ballerina" },
+        { "thumb": "scrow2.JPG", "text": "GentleMan Fred of Staffordshire" }
+      ]
+    }
+  ],
+  "Ceramics": [
+    {
+      "title": "Ceramics 2003 -2004",
+      "src": "Pictures/c2003-2004/",
+      "images": [
+        { "thumb": "Joyce's ceramics 2003-2004 001.jpg", "text": "" },
+        { "thumb": "Joyce's ceramics 2003-2004 007.jpg", "text": "" },
+        { "thumb": "Joyce's ceramics 2003-2004 011.jpg", "text": "" }
+      ]
+    },
+    {
+      "title": "Ceramics 2005",
+      "src": "Pictures/ceramics2005/",
+      "images": [
+        { "thumb": "2005001.jpg"},
+        { "thumb": "2005002.jpg"},
+        { "thumb": "2005003.jpg"},
+        { "thumb": "2005004.jpg"},
+        { "thumb": "2005005.jpg"},
+        { "thumb": "2005006.jpg"},
+        { "thumb": "2005007.jpg"},
+        { "thumb": "2005008.jpg"}
+      ]
+    },
+    {
+      "title": "Ceramics Summer 2005",
+      "src": "Pictures/062005/ceramics/",
+      "images": [
+        { "thumb": "1.JPG"},
+        { "thumb": "2.JPG"},
+        { "thumb": "4.JPG"},
+        { "thumb": "5.jpg"},
+        { "thumb": "3.JPG"}
+      ]
+    },
+    {
+      "title": "Ceramics Summer 2006",
+      "src": "Pictures/csc2006/",
+      "images": [
+        { "thumb": "pasadena, arizona and ceramics 2006 016.jpg"},
+        { "thumb": "pasadena, arizona and ceramics 2006 018.jpg"},
+        { "thumb": "pasadena, arizona and ceramics 2006 019.jpg"},
+        { "thumb": "pasadena, arizona and ceramics 2006 020.jpg"},
+        { "thumb": "pasadena, arizona and ceramics 2006 021.jpg"},
+        { "thumb": "pasadena, arizona and ceramics 2006 022.jpg"},
+        { "thumb": "pasadena, arizona and ceramics 2006 024.jpg"}
+      ]
+    },
+    {
+      "title": "Ceramics 2011",
+      "src": "Pictures/Galc5/images/",
+      "images": [
+        { "thumb": "sc (102).JPG"},
+        { "thumb": "sc (103).JPG"},
+        { "thumb": "sc (104).JPG"},
+        { "thumb": "sc (105).JPG"},
+        { "thumb": "sc (106).JPG"}
+      ]
+    }
+  ],
+  "Hats": [
+    {
+      "title": "Hats New Spring Range",
+      "src": "Pictures/hat1/",
+      "images": [
+        { "thumb": "DSCF4281(small).JPG" },
+        { "thumb": "DSCF4284(small).JPG" },
+        { "thumb": "DSCF4285(small).JPG" },
+        { "thumb": "DSCF4286(small).JPG" },
+        { "thumb": "DSCF4288(small).JPG" },
+        { "thumb": "DSCF4289(small).JPG" }
+      ]
+    }
+  ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

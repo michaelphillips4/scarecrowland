@@ -1,21 +1,14 @@
-* {
-    box-sizing: border-box;
+h1 {
+  text-shadow: 4px 4px 10px grey;
+  font-size: 5vw;
+}
+
+.icon {
+  vertical-align: middle;
+}
+
+@media screen and (max-width: 800px) {
+  h1 {
+    font-size: 12vw;
   }
-  
-  .flex-container {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-   
-  }
-  
-  .flex-item {
-    padding: 10px;
-  }
-  
-    
-  @media (max-width: 800px) {
-    .flex-container {
-      flex-direction: column;
-    }
-  }
+}

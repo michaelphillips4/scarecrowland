@@ -1,4 +1,4 @@
-
+import Footer from './parts/Footer';
 import Header from './parts/Header';
 import { Outlet } from "react-router-dom";
 
@@ -8,14 +8,10 @@ const Layout = () => {
             <Header />
             <Outlet />
             <br />
-            <span>&copy; scarecrowland 2023</span>
-            <br /> <br /> <br />
-            <main>
-
-            </main>
+            <Footer />
+            <p className="text-center">v2.1</p>
         </>
     )
 };
 
 export default Layout;
-

@@ -1,24 +1,20 @@
 import GalleryList from './GallerysList';
-import ImagesList from './ImagesList';
 import History from './History';
 import About from './About';
-import Barnie from './Barnie';
+import Sales from './Sales';
 
 const Home = () => {
     return (
         <>
-            <div className="container">
-                <About />
-            </div>
-            <ImagesList />
-            <div className="container">
-                <GalleryList />
-            </div>
-            <div className="container">
-                <History />
-            </div>
-            <div className="container">
-                <Barnie />
+            <About />
+            <Sales />
+            <div className="row mt-1 g-2">
+                <div className="col-lg-3 ">
+                    <GalleryList />
+                </div>
+                <div className="col">
+                    <History />
+                </div>
             </div>
         </>
     );
