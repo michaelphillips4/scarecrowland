@@ -1,5 +1,5 @@
 {
-  "Galleries": [
+  "Scarecrows": [
     {
       "title": "Green Man Regents Park London",
       "src": "Pictures/gal47/",
@@ -939,33 +939,124 @@
     },
 
     {
-      "title": "TODO Lookalike and Famous Scarecrows",
+      "title": "Lookalike and Famous Scarecrows",
       "src": "Pictures/",
       "images": [
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" }
+        { "thumb": "scrow6.JPG", "text": "Freddie Mercury" },
+        {
+          "thumb": "scrow7.JPG",
+          "text": "Freddie as shown on TV (Big Breakfast)"
+        },
+        {
+          "thumb": "CharlesCamilla.JPG",
+          "text": "Prince Charles and Camilla Parker Bowles"
+        },
+
+        { "thumb": "Family.JPG", "text": "David Hockney" },
+        { "thumb": "jamesbond.jpg", "text": "James Bond" },
+        {
+          "thumb": "JCraven.JPG",
+          "text": "John Craven TV Presenter with Scarecrow still in creation"
+        },
+
+        { "thumb": "scrow15.JPG", "text": "Lord Blyth Chairman Of Boots" },
+        { "thumb": "scrow27.JPG", "text": "Charlie Chaplin" },
+        { "thumb": "sc01.jpg", "text": "John Craven The final Scarecrow" }
       ]
     },
     {
-      "title": "TODO An array of traditional Scarecrows",
+      "title": "Array of Traditional Scarecrows",
       "src": "Pictures/",
       "images": [
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" },
-        { "thumb": "", "text": "" }
+        {
+          "thumb": "scrow19.JPG",
+          "text": "Traditional Scarecrow in a vegtable garden"
+        },
+        { "thumb": "Clown.JPG", "text": "Clown Scarecrow in a Basket" },
+        { "thumb": "GatePost.JPG", "text": "Small Scarecrow on a gate post" },
+        { "thumb": "scrowp.jpg", "text": "Ballerina in woodland" },
+        { "thumb": "Wurzle.JPG", "text": "Wurzil" },
+        {
+          "thumb": "scrow12.JPG",
+          "text": "Albert with a mouse on his shoulder"
+        },
+        { "thumb": "scrow1.JPG", "text": "Clown Scarecrow" },
+        { "thumb": "scrow10.JPG", "text": "Flying Ballerina" },
+        { "thumb": "scrow2.JPG", "text": "GentleMan Fred of Staffordshire" }
+      ]
+    }
+  ],
+  "Ceramics": [
+    {
+      "title": "Ceramics 2003 -2004",
+      "src": "Pictures/c2003-2004/",
+      "images": [
+        { "thumb": "Joyce's ceramics 2003-2004 001.jpg", "text": "" },
+        { "thumb": "Joyce's ceramics 2003-2004 007.jpg", "text": "" },
+        { "thumb": "Joyce's ceramics 2003-2004 011.jpg", "text": "" }
+      ]
+    },
+    {
+      "title": "Ceramics 2005",
+      "src": "Pictures/ceramics2005/",
+      "images": [
+        { "thumb": "2005001.jpg"},
+        { "thumb": "2005002.jpg"},
+        { "thumb": "2005003.jpg"},
+        { "thumb": "2005004.jpg"},
+        { "thumb": "2005005.jpg"},
+        { "thumb": "2005006.jpg"},
+        { "thumb": "2005007.jpg"},
+        { "thumb": "2005008.jpg"}
+      ]
+    },
+    {
+      "title": "Ceramics Summer 2005",
+      "src": "Pictures/062005/ceramics/",
+      "images": [
+        { "thumb": "1.JPG"},
+        { "thumb": "2.JPG"},
+        { "thumb": "4.JPG"},
+        { "thumb": "5.jpg"},
+        { "thumb": "3.JPG"}
+      ]
+    },
+    {
+      "title": "Ceramics Summer 2006",
+      "src": "Pictures/csc2006/",
+      "images": [
+        { "thumb": "pasadena, arizona and ceramics 2006 016.jpg"},
+        { "thumb": "pasadena, arizona and ceramics 2006 018.jpg"},
+        { "thumb": "pasadena, arizona and ceramics 2006 019.jpg"},
+        { "thumb": "pasadena, arizona and ceramics 2006 020.jpg"},
+        { "thumb": "pasadena, arizona and ceramics 2006 021.jpg"},
+        { "thumb": "pasadena, arizona and ceramics 2006 022.jpg"},
+        { "thumb": "pasadena, arizona and ceramics 2006 024.jpg"}
+      ]
+    },
+    {
+      "title": "Ceramics 2011",
+      "src": "Pictures/Galc5/images/",
+      "images": [
+        { "thumb": "sc (102).JPG"},
+        { "thumb": "sc (103).JPG"},
+        { "thumb": "sc (104).JPG"},
+        { "thumb": "sc (105).JPG"},
+        { "thumb": "sc (106).JPG"}
+      ]
+    }
+  ],
+  "Hats": [
+    {
+      "title": "Hats New Spring Range",
+      "src": "Pictures/hat1/",
+      "images": [
+        { "thumb": "DSCF4281(small).JPG" },
+        { "thumb": "DSCF4284(small).JPG" },
+        { "thumb": "DSCF4285(small).JPG" },
+        { "thumb": "DSCF4286(small).JPG" },
+        { "thumb": "DSCF4288(small).JPG" },
+        { "thumb": "DSCF4289(small).JPG" }
       ]
     }
   ]

@@ -3,27 +3,32 @@ import "./Gallery.css"
 import { useParams } from "react-router-dom";
 import GalleryNavLinks from "./GalleryNavLinks";
 import { useState } from "react";
+import GalleryImage from "./GalleryImage";
+import ROOT_PATH from "../globals";
 
-//change to global 
-const root = "http://www.scarecrowland.co.uk/";
+//preload images to speed up page load.
+const preLoadImages = (info)=>{
+  
+   info.images.forEach((e) => 
+   {
+        const imageElement = new Image();
+        imageElement.src = `${ROOT_PATH}${info.src}${e.thumb}`;
+       
+   })
 
-export default function Gallery() {
-    const { index } = useParams();
-    const info = data.Galleries[Number(index)];
+}
+
+const Gallery =() => {
+    const { gallery, index } = useParams();
+    const info = data[gallery][Number(index)];
     const [imagesLoaded, setImagesLoaded] = useState(false);
 
+    preLoadImages(info);
 
-    for (const image of info.images) {
-        const imageElement = new Image();
-        imageElement.src = `${root}${info.src}${image.thumb}`;
-        image.src = imageElement;
-    }
-
-
-    return <><div className="card shadow rounded text-center">
+    return <div className="card shadow rounded text-center">
         <h2>{info.title}</h2>
         <span>{info.text}</span>
-        <GalleryNavLinks index={index} />
+        <GalleryNavLinks index={index} gallery={gallery} />
         {(imagesLoaded === false) > 0 &&
             <div className="m-4">
                 Please wait while images load...
@@ -33,54 +38,10 @@ export default function Gallery() {
             </div>
         }
         <div className={imagesLoaded ? "visible" : "invisible"}>
-            <Images info={info} setImagesLoaded={setImagesLoaded} />
+            <GalleryImage info={info} setImagesLoaded={setImagesLoaded} name={gallery} />
         </div>
-        <GalleryNavLinks index={index} />
-    </div></>
+        <GalleryNavLinks index={index} gallery={gallery} />
+    </div>
 }
 
-
-
-const Images = ({ info, setImagesLoaded }) => {
-
-    const counter = [];
-
-    const onLoad = (index) => {
-        const x = upCounter();
-        if (x === (info.images.length - 1)) {
-            setImagesLoaded(true);
-            console.log("load");
-        }
-        console.log(x, index);
-
-    };
-
-    const onError = (index) => {
-        setImagesLoaded(true);
-        console.log("Error loading", index);
-    };
-
-    const upCounter = () => {
-        counter.push(true);
-        return counter.length;
-    }
-
-    return (
-        <>
-            <div className="gallery-flex-container  ">
-                {info.images.map((e, i) =>
-                    <div key={`${i}${info.src}`}>
-                        <figure className="gallery-figure" >
-                            <img className="gallery-img round shadow"
-                                src={`${root}${info.src}${e.thumb}`}
-                                alt={`Scarecrow ${e.text || ""}`}
-                                onLoad={() => onLoad(i)}
-                                onError={() => onError(i)}
-                            />
-                            <figcaption>{e.text}</figcaption>
-                        </figure>
-                    </div>)}
-            </div>
-        </>
-    );
-};
+export default Gallery;

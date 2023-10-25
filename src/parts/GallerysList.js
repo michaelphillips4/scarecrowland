@@ -1,37 +1,25 @@
 import './GallerysList.css';
 import data from "../galleries-data.json";
-import { Link } from "react-router-dom";
+import GallerySection from './GallerySection';
 
-function GalleryList() {
+const GalleryList = ()=> {
   return (
-    <>
-
       <div className="card shadow p-2 ">
-        <h5 className="text-center">Scarecrow Gallery's</h5>
-        Click on a link to view the gallery
-
-        {data.Galleries.map((j, index) =>
-          <Link to={`Gallery/${index}`} key={index} > {j.title}</Link>)
-        }
-
-    <hr />
-                     
+      <h5 className="text-center">Gallery's</h5>
       
-        <a href="gal2.html">
-          lookalike and famous <b>scarecrows</b>
-        </a>
-        <a href="gal1.html">
-          an array of traditional <b>scarecrows</b>
-        </a>
-
-        <a href="http://regentsparkallotmentgarden.blogspot.co.uk/2011/10/harvest-festival-2011-part-2-scarecrows.html">
+      <GallerySection name = "Scarecrows" gallery = {data.Scarecrows} />
+     
+      <a href="http://regentsparkallotmentgarden.blogspot.co.uk/2011/10/harvest-festival-2011-part-2-Ceramics.html">
           Harvest festival 2011
-        </a> 
+      </a> 
 
-        <hr />
-        Ceramics
+       <hr />
+       <GallerySection name = "Ceramics" gallery = {data.Ceramics} />
+       <hr />
+       <GallerySection name = "Hats" gallery = {data.Hats} />
 
-        <a href="Cgal2.html">
+
+       {/*  <a href="Cgal2.html">
           Ceramics 2003 -2004
         </a>
         <a href="Cgal1.html">
@@ -46,15 +34,9 @@ function GalleryList() {
         <a href="http://www.scarecrowland.co.uk/Pictures/Galc5/index.html">
           Ceramics 2011
         </a>
+  <a href="hatgal1.html">  Hats New Range in Spring 2011</a> */}
 
-        <hr />
-        Hats
-        <br />
-        <a href="hatgal1.html">  Hats New Range in Spring 2011</a>
-
-      </div>
-
-    </>)
+      </div>)
 };
 
 export default GalleryList;
