@@ -10,7 +10,7 @@ const Layout = () => {
             <Outlet />
             <br />
             <Footer />
-            <p className="text-center">v2.0</p>
+            <p className="text-center">v2.1</p>
         </>
     )
 };
