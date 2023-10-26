@@ -1,9 +1,9 @@
 function History() {
   return <>
-    <div className="card shadow p-2 ">
+    <div className="card shadow p-2 mt-2">
       <h5 className="text-center">Scarecrow History</h5>
       <p className="text-justify">
-      <img src="http://www.scarecrowland.co.uk/style/american.gif" className="p-2 rounded float-end" style={{ width: "10rem" }} alt="American Scarecrow" />
+      <img src="http://www.scarecrowland.co.uk/style/american.gif"  style={{ width: "10rem" }} className="p-2 rounded float-end" alt="American Scarecrow" />
       
         <img src="http://www.scarecrowland.co.uk/style/tree.jpg" className="p-2 rounded float-start " style={{ width: "10rem" }} alt="joyce with a scarecrow in a tree" />
         The Scarecrow is one of the most familiar figures of the rural landscape not only in the United Kingdom but
@@ -21,12 +21,6 @@ function History() {
         Earliest known written fact about scarecrow's written in 1592.Definition of a scarecrow - That which frightens or is intended to
         frighten without doing physical harm.Literally that which - scares away crows, hence the name scarecrow.
 
-       
-          <iframe
-          className="mx-auto d-block m-2"
-          src="http://www.youtube.com/embed/uMa9LVlX3yk" title="scarecrows"></iframe>
-        
-
         Decline is due to the change of farming technology started with the industrial revolution.
         The hectic life of the farmer means that he doesn't have time to even feel the earth or walk it.
         He sits in his combination machine i.e J.C.B.  He is protected against the elements and maybe
@@ -39,9 +33,9 @@ function History() {
         They try electronic ones and pop up balloon types.  They are still trying to find an answer!
         The birds soon get wise to these.  I believe if the Scarecrow is going to do his job he has to have
         a mystical feel about him.
-
-
-        <br />
+ 
+   <img src="http://www.scarecrowland.co.uk/style/fred.gif" className="p-2 rounded float-start" style={{ width: "10rem" }} alt="joyce with a scarecrow in a tree" />
+        <br /><br />
         Twelve years ago I made a statement,"What this place is missing is a Scarecrow" and since then
         I have developed it into an art form.  Alas, a farmer rarely attends to this.  But when he does,
         he is delighted.  Also in the past they used boys or old men to add a "clapper clapper".
@@ -58,8 +52,10 @@ function History() {
 
         The Scarecrow also has different names all over the United Kingdom.
         Jack A Lent -  from the "Merry Wives Of Windsor"  1597.
-        <img src="http://www.scarecrowland.co.uk/style/fred.gif" className="p-2 rounded float-end" style={{ width: "10rem" }} alt="joyce with a scarecrow in a tree" />
-     
+        <br /><br />
+      <iframe
+          className="mx-auto d-block m-2 float-end p-2"
+          src="http://www.youtube.com/embed/uMa9LVlX3yk" title="scarecrows"></iframe>
         <br />	Mommet -   Somerset.
         <br />	Murmet - Devon.
         <br />	Mammet - Yorkshire, Lancashire.
@@ -68,17 +64,8 @@ function History() {
         <br />	Tattie Bouie
         <br />	Mawhini - Suffolk, Norfolk, East Anglia.
       </p>
-      <div className="row mx-auto text-center">
-        <div className="col-lg-4">
-          <img src="http://www.scarecrowland.co.uk/Pictures/200310scarecrow003.jpg" className="img-fluid p-2 shadow rounded" alt="Pumpkin Man" />
-        </div>
-        <div className="col-lg-4">
-          <img src="http://www.scarecrowland.co.uk/style/scarecrowinshop_.jpg" className="img-fluid p-2 shadow rounded" alt="Scarecrow in a shop" />
-        </div>
-        <div className="col-lg-4 text-center mx-auto">
-          <img src="http://www.scarecrowland.co.uk/style/peppe.jpg" className="img-fluid p-2 shadow rounded" alt="peppe" />
-        </div>
-      </div>
+      <hr />
+    
 
     </div>
 

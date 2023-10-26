@@ -1,5 +1,42 @@
 {
   "Scarecrows": [
+     {
+      "title": "Celebrity Scarecrows",
+      "src": "Pictures/gal36/",
+      "text": "Scarecrows made for Seeds of Changes new products launch",
+      "images": [
+        {
+          "thumb": "Wayne Rooney 5(Small).jpg",
+          "main": "Wayne Rooney 5.jpg",
+          "text": "Wayne Rooney"
+        },
+        {
+          "thumb": "Amy Winehouse 8(Small).jpg",
+          "main": "Amy Winehouse 8.jpg",
+          "text": "Amy Winehouse"
+        },
+        {
+          "thumb": "Boris Johnson 4(Small).jpg",
+          "main": "Boris Johnson 4.jpg",
+          "text": "Boris Johnson"
+        },
+        {
+          "thumb": "Raymond, Kim and Scarecrows(Small).jpg",
+          "main": "Raymond, Kim and Scarecrows.jpg",
+          "text": "Raymond Blance, Kim Wilde and Scarecrows"
+        },
+        {
+          "thumb": "Kim Wilde with scarecrows group 3(Small).jpg",
+          "main": "Kim Wilde with scarecrows group 3(Small).jpg",
+          "text": "Kim Wilde with scarecrows group. "
+        },
+        {
+          "thumb": "DIG YOUR DINNER scarecrows(Small).jpg",
+          "main": "DIG YOUR DINNER scarecrows.jpg",
+          "text": "DIG YOUR DINNER scarecrows"
+        }
+      ]
+    },
     {
       "title": "Green Man Regents Park London",
       "src": "Pictures/gal47/",
@@ -216,43 +253,6 @@
       ]
     },
     {
-      "title": "Celebrity Scarecrows",
-      "src": "Pictures/gal36/",
-      "text": "Scarecrows made for Seeds of Changes new products launch",
-      "images": [
-        {
-          "thumb": "Wayne Rooney 5(Small).jpg",
-          "main": "Wayne Rooney 5.jpg",
-          "text": "Wayne Rooney"
-        },
-        {
-          "thumb": "Amy Winehouse 8(Small).jpg",
-          "main": "Amy Winehouse 8.jpg",
-          "text": "Amy Winehouse"
-        },
-        {
-          "thumb": "Boris Johnson 4(Small).jpg",
-          "main": "Boris Johnson 4.jpg",
-          "text": "Boris Johnson"
-        },
-        {
-          "thumb": "Raymond, Kim and Scarecrows(Small).jpg",
-          "main": "Raymond, Kim and Scarecrows.jpg",
-          "text": "Raymond Blance, Kim Wilde and Scarecrows"
-        },
-        {
-          "thumb": "Kim Wilde with scarecrows group 3(Small).jpg",
-          "main": "Kim Wilde with scarecrows group 3(Small).jpg",
-          "text": "Kim Wilde with scarecrows group. "
-        },
-        {
-          "thumb": "DIG YOUR DINNER scarecrows(Small).jpg",
-          "main": "DIG YOUR DINNER scarecrows.jpg",
-          "text": "DIG YOUR DINNER scarecrows"
-        }
-      ]
-    },
-    {
       "title": "Scarecrows in the USA",
       "src": "Pictures/gal35/",
       "images": [
@@ -350,10 +350,7 @@
       "title": "Goldys",
       "src": "Pictures/gal31/",
       "images": [
-        {
-          "thumb": "00.JPG",
-          "text": "Just arrived at Goldys on my Broomstick !!"
-        },
+        { "thumb": "00.JPG", "text": "Just arrived at Goldys on my Broomstick !!"},
         { "thumb": "01.JPG", "text": "Nephew Harry in Farm Shop." },
         { "thumb": "02.JPG", "text": "Piano Player - Rocket Man" },
         { "thumb": "03.JPG", "text": "" },
@@ -364,26 +361,27 @@
         { "thumb": "08.JPG", "text": "" },
         { "thumb": "09.JPG", "text": "" },
         { "thumb": "10.JPG", "text": "" },
-        {
-          "thumb": "11.JPG",
-          "text": "Proud owners of their Scarecrows with Farmer Gold"
-        },
-        { "thumb": "12.JPG", "text": "" },
+        { "thumb": "11.JPG", "text": "Proud owners of their Scarecrows with Farmer Gold"},
+        { "thumb": "12.JPG", "text": "" }
+      ]
+    },
+    {
+      "title": "Goldys Part 2",
+      "src": "Pictures/gal31/",
+      "images": [
         { "thumb": "DSC00302.JPG", "text": "Proud owners of their Scarecrows" },
-        { "thumb": "DSC00268.JPG", "text": "" },
         { "thumb": "DSC00269.JPG", "text": "" },
         { "thumb": "DSC00270.JPG", "text": "Proud owners of their Scarecrows" },
-        {
-          "thumb": "DSC00272.JPG",
-          "text": "Making Scarecrows. This is Hard Work !!"
-        },
+        { "thumb": "DSC00272.JPG", "text": "Making Scarecrows. This is Hard Work !!" },
         { "thumb": "DSC00273.JPG", "text": "Proud owners of their Scarecrows" },
         { "thumb": "DSC00278.JPG", "text": "Proud owners of their Scarecrows" },
         { "thumb": "DSC00287.JPG", "text": "" },
         { "thumb": "DSC00288.JPG", "text": "" },
         { "thumb": "DSC00289.JPG", "text": "" },
-        { "thumb": "DSC00300.JPG", "text": "Judging Scarecrow Competition" },
-        { "thumb": "DSC00302.JPG", "text": "Proud owners of their Scarecrows" }
+        { "thumb": "DSC00300.JPG", "text": "Judging Scarecrow Competition" }, 
+        { "thumb": "DSC00302.JPG", "text": "Proud owners of their Scarecrows" },
+        { "thumb": "DSC00268.JPG", "text": "" }
+      
       ]
     },
     {
@@ -519,7 +517,14 @@
         { "thumb": "009_17A.JPG" },
         { "thumb": "019_7A.JPG" },
         { "thumb": "011_15A.JPG" },
-        { "thumb": "012_14A.JPG" },
+        { "thumb": "012_14A.JPG" }
+       
+      ]
+    },
+    {
+      "title": "More Workshops at Hollister School Part 2",
+      "src": "Pictures/012005Pictures/",
+      "images": [
         { "thumb": "013_13A.JPG" },
         { "thumb": "014_12A.JPG" },
         { "thumb": "015_11A.JPG" },
@@ -714,14 +719,8 @@
       "title": "Workshops in the UK.",
       "src": "Pictures/",
       "images": [
-        {
-          "thumb": "scare101.jpg",
-          "text": "Harry Potter With Inventor Groombridge Kent"
-        },
-        {
-          "thumb": "scare102.jpg",
-          "text": "Queuing up to make Flower Pot Scarecrows"
-        },
+        { "thumb": "scare101.jpg","text": "Harry Potter With Inventor Groombridge Kent"},
+        { "thumb": "scare102.jpg", "text": "Queuing up to make Flower Pot Scarecrows" },
         { "thumb": "scare103.jpg", "text": "Confusion !!" },
         { "thumb": "scare104.jpg", "text": "Its Okay Now All Peaceful" },
         { "thumb": "scare105.jpg", "text": "Busy Busy" },
