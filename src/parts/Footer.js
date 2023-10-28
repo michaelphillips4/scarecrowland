@@ -9,6 +9,7 @@ function Footer() {
           <i className="bi bi-envelope icon" ></i> email : <a href="mailto:scarecrowland@yahoo.com">scarecrowland@yahoo.com</a>
         </div>
       </div>
+      <p className="text-center">v2.2</p>
     </footer>
   )
 };
